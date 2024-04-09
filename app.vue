@@ -125,6 +125,12 @@
         <strong>Schachmatt Ulm</strong> wird organisiert von Stefan, dem
         Initiator des Schanzenlauf Oberstdorf.
       </p>
+      <p>
+        Copyright/Urheberrecht aller Bilder:
+        <a href="https://www.kappelmeier-fotografie.de"
+          >Kappelmeier Fotografie</a
+        >
+      </p>
     </div>
   </footer>
 </template>
