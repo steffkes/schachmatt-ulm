@@ -20,9 +20,10 @@
   <section class="section">
     <div class="container is-max-desktop">
       <p>
-        Schon wieder ein Feuerwehr-Treppenlauf? Ja doch! Aber natürlich anders =) Nachdem
-        ihr euch in der ersten Runde qualifiziert habt, geht es im K.O.-System
-        weiter! Bis am Ende das schnellste Team als Sieger feststeht.
+        Schon wieder ein Feuerwehr-Treppenlauf? Ja doch! Aber natürlich anders
+        =) Nachdem ihr euch in der ersten Runde qualifiziert habt, geht es im
+        K.O.-System weiter! Bis am Ende das schnellste Team als Sieger
+        feststeht.
       </p>
 
       <section class="level mt-6">
