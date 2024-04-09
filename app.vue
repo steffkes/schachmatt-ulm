@@ -61,7 +61,7 @@
       min-height: 50vh;
       background-image: url(/images/P10003192560.jpg);
       background-size: cover;
-      background-position: 50% 50%;
+      background-position: 75% 50%;
       background-attachment: fixed;
     "
   ></section>
@@ -80,7 +80,7 @@
       min-height: 50vh;
       background-image: url(/images/P10003192586.jpg);
       background-size: cover;
-      background-position: 50% 50%;
+      background-position: 45% 50%;
       background-attachment: fixed;
     "
   ></section>
@@ -97,7 +97,7 @@
       min-height: 50vh;
       background-image: url(/images/P10003192613.jpg);
       background-size: cover;
-      background-position: 50% 50%;
+      background-position: 85% 50%;
       background-attachment: fixed;
     "
   ></section>
@@ -114,7 +114,7 @@
       min-height: 75vh;
       background-image: url(/images/P10003192583.jpg);
       background-size: cover;
-      background-position: 50% 50%;
+      background-position: 75% 50%;
       background-attachment: fixed;
     "
   ></section>
