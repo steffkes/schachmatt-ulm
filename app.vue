@@ -130,7 +130,7 @@
 </template>
 
 <style>
-@use "bulma";
+@import url("bulma");
 </style>
 
 <script setup>
