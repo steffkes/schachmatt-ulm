@@ -136,6 +136,7 @@
 <script setup>
 useSeoMeta({
   title: "Schachmatt Ulm",
+  description: "Feuerwehr-Treppenlauf im K.O.-System",
   script: [
     {
       src: "https://plausible.io/js/script.js",
