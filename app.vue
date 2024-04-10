@@ -61,7 +61,7 @@
 
       <div class="mt-6">
         <p>Willst du auch dabei sein? Es ist noch Platz für 161 Teams.</p>
-        <progress class="progress my-3" value="0" max="161">
+        <progress class="progress my-3 is-success" value="161" max="161">
           161 Teams verfügbar
         </progress>
         <p>
