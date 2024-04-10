@@ -87,7 +87,7 @@
 
   <section class="section pt-2">
     <div class="container is-max-desktop">
-      <p>
+      <p class="has-text-grey-light">
         Flo war eindeutig froh, als er zum letzten Mal oben angekommen ist ;)
       </p>
     </div>
@@ -106,7 +106,9 @@
 
   <section class="section pt-2">
     <div class="container is-max-desktop">
-      <p>Das ist euer Ausblick nach dem Zieleinlauf.</p>
+      <p class="has-text-grey-light">
+        Das ist euer Ausblick nach dem Zieleinlauf.
+      </p>
     </div>
   </section>
 
@@ -123,7 +125,9 @@
 
   <section class="section pt-2">
     <div class="container is-max-desktop">
-      <p>Denn unsere Wettkampf-Location ist das Maritim Hotel Ulm!</p>
+      <p class="has-text-grey-light">
+        Denn unsere Wettkampf-Location ist das Maritim Hotel Ulm!
+      </p>
     </div>
   </section>
 
