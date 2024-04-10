@@ -61,9 +61,15 @@
 
       <div class="mt-6">
         <p>Willst du auch dabei sein? Es ist noch Platz für 161 Teams.</p>
-        <progress class="progress mt-2" value="0" max="161">
+        <progress class="progress my-3" value="0" max="161">
           161 Teams verfügbar
         </progress>
+        <p>
+          Nur .. wie? Tja, auch das ist bei uns natürlich anders =) Ihr könnt
+          euch nicht direkt anmelden (das wäre definitiv zu einfach): Jedes
+          angemdelete Team kann ein weiteres Team einladen. Also mal rumfragen,
+          ob ihr die Richtigen kennt!
+        </p>
       </div>
     </div>
   </section>
