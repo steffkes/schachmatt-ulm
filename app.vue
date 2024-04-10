@@ -67,7 +67,7 @@
         <p>
           Nur .. wie? Tja, auch das ist bei uns natürlich anders =) Ihr könnt
           euch nicht direkt anmelden (das wäre definitiv zu einfach): Jedes
-          angemdelete Team kann ein weiteres Team einladen. Also mal rumfragen,
+          angemeldete Team kann ein weiteres Team einladen. Also mal rumfragen,
           ob ihr die Richtigen kennt!
         </p>
       </div>
