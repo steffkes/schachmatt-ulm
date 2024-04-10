@@ -90,6 +90,28 @@
       <p class="has-text-grey-light">
         Flo war eindeutig froh, als er zum letzten Mal oben angekommen ist ;)
       </p>
+
+      <p class="mt-6">
+        Zum letzten Mal? Ja, richtig! Bei Schachmatt Ulm geht es nicht nur darum
+        einmal nach oben zu laufen.
+        <strong>Das schnellere Team kommt jeweils eine Runde weiter</strong> -
+        das geht so lang, bis sich am Ende nur noch zwei Teams im Finale
+        gegenüber stehen.
+      </p>
+
+      <p class="mt-3">
+        Alle 161 Teams starten ganz bequem in eine Qualifikationsrunde. Die
+        schnellsten 128 Teams laufen anschließend in der ersten Runde in 64
+        zufälligen Paarungen gegeneinander. Das schnellere Team kommt eine Runde
+        weiter .. und läuft dort gegen ein anderes Team das in seiner Paarung
+        gewonnen hat.
+      </p>
+
+      <p class="mt-3">
+        Das Spiel geht so lange, bis sich am Ende nur noch zwei Teams im Finale
+        gegenüber stehen. Die letzte Runde entscheidet über Sieger und
+        Zweitplatzierten.
+      </p>
     </div>
   </section>
 
