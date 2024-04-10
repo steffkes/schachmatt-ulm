@@ -55,8 +55,8 @@
     </div>
   </section>
 
-  <section
-    class="section"
+  <div
+    class="mt-6"
     style="
       min-height: 50vh;
       background-image: url(/images/P10003192560.jpg);
@@ -64,9 +64,9 @@
       background-position: 75% 50%;
       background-attachment: fixed;
     "
-  ></section>
+  ></div>
 
-  <section class="section">
+  <section class="section pt-2">
     <div class="container is-max-desktop">
       <p>
         Flo war eindeutig froh, als er zum letzten Mal oben angekommen ist ;)
@@ -74,8 +74,8 @@
     </div>
   </section>
 
-  <section
-    class="section mt-6"
+  <div
+    class="mt-6"
     style="
       min-height: 50vh;
       background-image: url(/images/P10003192586.jpg);
@@ -83,16 +83,16 @@
       background-position: 45% 50%;
       background-attachment: fixed;
     "
-  ></section>
+  ></div>
 
-  <section class="section">
+  <section class="section pt-2">
     <div class="container is-max-desktop">
       <p>Das ist euer Ausblick nach dem Zieleinlauf.</p>
     </div>
   </section>
 
-  <section
-    class="section mt-6"
+  <div
+    class="mt-6"
     style="
       min-height: 50vh;
       background-image: url(/images/P10003192613.jpg);
@@ -100,16 +100,16 @@
       background-position: 85% 50%;
       background-attachment: fixed;
     "
-  ></section>
+  ></div>
 
-  <section class="section">
+  <section class="section pt-2">
     <div class="container is-max-desktop">
       <p>Denn unsere Wettkampf-Location ist das Maritim Hotel Ulm!</p>
     </div>
   </section>
 
-  <section
-    class="section mt-6"
+  <div
+    class="mt-6"
     style="
       min-height: 75vh;
       background-image: url(/images/P10003192583.jpg);
@@ -117,7 +117,7 @@
       background-position: 75% 50%;
       background-attachment: fixed;
     "
-  ></section>
+  ></div>
 
   <footer class="footer">
     <div class="content has-text-centered">
