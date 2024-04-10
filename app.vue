@@ -21,7 +21,7 @@
     <div class="container is-max-desktop">
       <p>
         Schon wieder ein Feuerwehr-Treppenlauf? Ja doch! Aber natürlich anders
-        =) Nachdem ihr euch in der ersten Runde qualifiziert habt, geht es im
+        ツ Nachdem ihr euch in der ersten Runde qualifiziert habt, geht es im
         K.O.-System weiter! Bis am Ende das schnellste Team als Sieger
         feststeht.
       </p>
@@ -65,7 +65,7 @@
           161 Teams verfügbar
         </progress>
         <p>
-          Nur .. wie? Tja, auch das ist bei uns natürlich anders =) Ihr könnt
+          Nur .. wie? Tja, auch das ist bei uns natürlich anders ツ Ihr könnt
           euch nicht direkt anmelden (das wäre definitiv zu einfach): Jedes
           angemeldete Team kann ein weiteres Team einladen. Also mal rumfragen,
           ob ihr die Richtigen kennt!
@@ -135,7 +135,7 @@
       <p class="mt-6">
         Typischerweise erfährt man, nachdem man mit letzter Kraft durch's Ziel
         gefallen ist, seine Zeit. <em>Oh nein, jetzt sagt er gleich:</em> Aber
-        nicht bei uns =) <em>Verdammt.</em>
+        nicht bei uns ツ <em>Verdammt.</em>
       </p>
 
       <p class="mt-3">
