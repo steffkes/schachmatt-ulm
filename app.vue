@@ -131,6 +131,18 @@
       <p class="has-text-grey-light">
         Das ist euer Ausblick nach dem Zieleinlauf.
       </p>
+
+      <p class="mt-6">
+        Typischerweise erfährt man, nachdem man mit letzter Kraft durch's Ziel
+        gefallen ist, seine Zeit. <em>Oh nein, jetzt sagt er gleich:</em> Aber
+        nicht bei uns =) <em>Verdammt.</em>
+      </p>
+
+      <p class="mt-3">
+        Wir sagen euch, welches Team in der Paarung das Schnellere war. Aber
+        nicht mit welcher Zeit - die Zeiten erfahrt ihr erst am Ende des
+        gesamten Wettkampfes, nach der Siegerehrung.
+      </p>
     </div>
   </section>
 
