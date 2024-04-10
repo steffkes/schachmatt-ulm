@@ -152,6 +152,9 @@ useSeoMeta({
   title: "Schachmatt Ulm",
   description: "Feuerwehr-Treppenlauf im K.O.-System",
   ogImage: "/og.jpg",
+});
+
+useHead({
   script: [
     {
       src: "https://plausible.io/js/script.js",
