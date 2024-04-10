@@ -26,6 +26,12 @@
         feststeht.
       </p>
 
+      <div class="notification is-info mt-6 has-text-centered">
+        <em>Voraussichtlich</em>
+        am <strong>Samstag, den 08.02.2025</strong> im
+        <strong>Maritim Hotel Ulm</strong>.
+      </div>
+
       <section class="level mt-6">
         <div class="level-item has-text-centered">
           <div>
