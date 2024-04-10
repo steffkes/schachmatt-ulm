@@ -114,6 +114,8 @@
     </div>
   </section>
 
+  <PartnerGrid />
+
   <div
     class="mt-6"
     style="
