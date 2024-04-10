@@ -162,6 +162,19 @@
       <p class="has-text-grey-light">
         Denn unsere Wettkampf-Location ist das Maritim Hotel Ulm!
       </p>
+
+      <p class="mt-6">
+        Gestartet wird in der Restaurant-Ebene. Am Start stehen sich die zwei
+        Teams einer Paarung gegenüber, nachdem sie die Startlinie überquert
+        haben geht es in zwei separat verlaufene Treppenhäuser die jeweils bis
+        ins 16. Stockwerk führen.
+      </p>
+
+      <p class="mt-2">
+        Dort oben im Panorama-Restaurant des Maritim Hotel Ulm befindet sich das
+        Ziel für beide Teams. Nach getaner Arbeit dürft ihr mit dem Aufzug
+        wieder hinunterfahren und euch auf die nächste Runde freuen ;)
+      </p>
     </div>
   </section>
 
