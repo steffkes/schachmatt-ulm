@@ -194,7 +194,7 @@
   <footer class="footer">
     <div class="content has-text-centered">
       <p>
-        <strong>Schachmatt Ulm</strong> wird organisiert von Stefan, dem
+        <strong>Schachmatt Ulm</strong> wird organisiert von Stefan Matheis, dem
         Initiator des Schanzenlauf Oberstdorf.
       </p>
       <p>
