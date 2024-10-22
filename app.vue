@@ -213,7 +213,7 @@
 <script setup>
 useSeoMeta({
   title: "Schachmatt Ulm",
-  description: "Feuerwehr-Treppenlauf im K.O.-System",
+  description: "Samstag, 08.02.25: Feuerwehr-Treppenlauf im K.O.-System",
   ogImage: "/og.jpg",
 });
 
