@@ -211,14 +211,33 @@
 </style>
 
 <script setup>
+const { event, formattedDate } = await useEvent();
+
 useSeoMeta({
-  title: "Schachmatt Ulm",
-  description: "Samstag, 08.02.25: Feuerwehr-Treppenlauf im K.O.-System",
+  description:
+    "Feuerwehr-Treppenlauf im K.O.-System (" +
+    formattedDate +
+    ") @ " +
+    event.location.name,
+  ogTitle: event.name + " (" + formattedDate + ")",
+  ogDescription: "Treppenlauf im K.O.-System @ " + event.location.name,
   ogImage: "/og.jpg",
 });
 
 useHead({
+  titleTemplate: (pageTitle) =>
+    [pageTitle, event.name].filter(Boolean).join(" | "),
+  viewport: "width=device-width, initial-scale=1, maximum-scale=1",
+  charset: "utf-8",
+  meta: [
+    { property: "og:type", content: "website" },
+    { name: "twitter:card", content: "summary_large_image" },
+  ],
   script: [
+    {
+      type: "application/ld+json",
+      children: JSON.stringify(event),
+    },
     {
       src: "https://plausible.io/js/script.js",
       "data-domain": "schachmatt-ulm.de",
