@@ -19,6 +19,19 @@
 
   <NuxtPage />
 
+  <PartnerGrid />
+
+  <div
+    class="mt-6"
+    style="
+      min-height: 75vh;
+      background-image: url(/images/P10003192583.jpg);
+      background-size: cover;
+      background-position: 75% 50%;
+      background-attachment: fixed;
+    "
+  ></div>
+
   <footer class="footer">
     <div class="content has-text-centered">
       <p>
