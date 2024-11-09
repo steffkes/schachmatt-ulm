@@ -71,27 +71,29 @@
         Flo war eindeutig froh, als er zum letzten Mal oben angekommen ist ;)
       </p>
 
-      <p class="mt-6">
-        Zum letzten Mal? Ja, richtig! Bei Schachmatt Ulm geht es nicht nur darum
-        einmal nach oben zu laufen.
-        <strong>Das schnellere Team kommt jeweils eine Runde weiter</strong> -
-        das geht so lang, bis sich am Ende nur noch zwei Teams im Finale
-        gegenüber stehen.
-      </p>
+      <div class="content mt-6">
+        <p>
+          Zum letzten Mal? Ja, richtig! Bei Schachmatt Ulm geht es nicht nur
+          darum einmal nach oben zu laufen.
+          <strong>Das schnellere Team kommt jeweils eine Runde weiter</strong> -
+          das geht so lang, bis sich am Ende nur noch zwei Teams im Finale
+          gegenüber stehen.
+        </p>
 
-      <p class="mt-3">
-        Alle 161 Teams starten ganz bequem in eine Qualifikationsrunde. Die
-        schnellsten 128 Teams laufen anschließend in der ersten Runde in 64
-        zufälligen Paarungen gegeneinander. Das schnellere Team kommt eine Runde
-        weiter .. und läuft dort gegen ein anderes Team das in seiner Paarung
-        gewonnen hat.
-      </p>
+        <p>
+          Alle 161 Teams starten ganz bequem in eine Qualifikationsrunde. Die
+          schnellsten 128 Teams laufen anschließend in der ersten Runde in 64
+          zufälligen Paarungen gegeneinander. Das schnellere Team kommt eine
+          Runde weiter .. und läuft dort gegen ein anderes Team das in seiner
+          Paarung gewonnen hat.
+        </p>
 
-      <p class="mt-3">
-        Das Spiel geht so lange, bis sich am Ende nur noch zwei Teams im Finale
-        gegenüber stehen. Die letzte Runde entscheidet über Sieger und
-        Zweitplatzierten.
-      </p>
+        <p>
+          Das Spiel geht so lange, bis sich am Ende nur noch zwei Teams im
+          Finale gegenüber stehen. Die letzte Runde entscheidet über Sieger und
+          Zweitplatzierten.
+        </p>
+      </div>
     </div>
   </section>
 
@@ -112,17 +114,19 @@
         Das ist euer Ausblick nach dem Zieleinlauf.
       </p>
 
-      <p class="mt-6">
-        Typischerweise erfährt man, nachdem man mit letzter Kraft durch's Ziel
-        gefallen ist, seine Zeit. <em>Oh nein, jetzt sagt er gleich:</em> Aber
-        nicht bei uns ツ <em>Verdammt.</em>
-      </p>
+      <div class="content mt-6">
+        <p>
+          Typischerweise erfährt man, nachdem man mit letzter Kraft durch's Ziel
+          gefallen ist, seine Zeit. <em>Oh nein, jetzt sagt er gleich:</em> Aber
+          nicht bei uns ツ <em>Verdammt.</em>
+        </p>
 
-      <p class="mt-3">
-        Wir sagen euch, welches Team in der Paarung das Schnellere war. Aber
-        nicht mit welcher Zeit - die Zeiten erfahrt ihr erst am Ende des
-        gesamten Wettkampfes, nach der Siegerehrung.
-      </p>
+        <p>
+          Wir sagen euch, welches Team in der Paarung das Schnellere war. Aber
+          nicht mit welcher Zeit - die Zeiten erfahrt ihr erst am Ende des
+          gesamten Wettkampfes, nach der Siegerehrung.
+        </p>
+      </div>
     </div>
   </section>
 
@@ -143,18 +147,20 @@
         Denn unsere Wettkampf-Location ist das Maritim Hotel Ulm!
       </p>
 
-      <p class="mt-6">
-        Gestartet wird in der Restaurant-Ebene. Am Start stehen sich die zwei
-        Teams einer Paarung gegenüber, nachdem sie die Startlinie überquert
-        haben geht es in zwei separat verlaufene Treppenhäuser die jeweils bis
-        ins 16. Stockwerk führen.
-      </p>
+      <div class="content mt-6">
+        <p>
+          Gestartet wird in der Restaurant-Ebene. Am Start stehen sich die zwei
+          Teams einer Paarung gegenüber, nachdem sie die Startlinie überquert
+          haben geht es in zwei separat verlaufene Treppenhäuser die jeweils bis
+          ins 16. Stockwerk führen.
+        </p>
 
-      <p class="mt-2">
-        Dort oben im Panorama-Restaurant des Maritim Hotel Ulm befindet sich das
-        Ziel für beide Teams. Nach getaner Arbeit dürft ihr mit dem Aufzug
-        wieder hinunterfahren und euch auf die nächste Runde freuen ;)
-      </p>
+        <p>
+          Dort oben im Panorama-Restaurant des Maritim Hotel Ulm befindet sich
+          das Ziel für beide Teams. Nach getaner Arbeit dürft ihr mit dem Aufzug
+          wieder hinunterfahren und euch auf die nächste Runde freuen ;)
+        </p>
+      </div>
     </div>
   </section>
 </template>
