@@ -33,17 +33,42 @@
   ></div>
 
   <footer class="footer">
-    <div class="content has-text-centered">
-      <p>
-        <strong>Schachmatt Ulm</strong> wird organisiert von Stefan Matheis, dem
-        Initiator des Schanzenlauf Oberstdorf.
-      </p>
-      <p>
-        Copyright/Urheberrecht aller Bilder:
-        <a href="https://www.kappelmeier-fotografie.de"
-          >Kappelmeier Fotografie</a
-        >
-      </p>
+    <div class="container is-max-desktop">
+      <div class="columns">
+        <div class="column">
+          <div class="content">
+            <p>
+              <strong>Schachmatt Ulm</strong> wird organisiert von Stefan
+              Matheis, dem Initiator des Schanzenlauf Oberstdorf.
+            </p>
+            <p>
+              Copyright/Urheberrecht aller Bilder:
+              <a href="https://www.kappelmeier-fotografie.de"
+                >Kappelmeier Fotografie</a
+              >
+            </p>
+          </div>
+        </div>
+        <div class="column">
+          <div class="columns">
+            <div class="column is-4">
+              <img src="/images/stefan.jpg" alt="Bild Stefan Matheis" />
+            </div>
+
+            <div class="column">
+              <p>Fragen? Anregungen? Presse. Sponsoring.</p>
+
+              <p class="mt-4">
+                <strong>Stefan Matheis</strong><br />
+                <a href="mailto:stefan.matheis@schachmatt-ulm.de"
+                  >✉️ stefan.matheis@schachmatt-ulm.de</a
+                ><br />
+                <a href="tel:004916097048114">📞 +49 160 970 48 114</a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
   </footer>
 </template>
