@@ -1,19 +1,7 @@
 <template>
   <section class="section">
     <div class="container is-max-desktop">
-      <p>
-        Schon wieder ein Feuerwehr-Treppenlauf? Ja doch! Aber natürlich anders
-        ツ Nachdem ihr euch in der ersten Runde qualifiziert habt, geht es im
-        K.O.-System weiter! Bis am Ende das schnellste Team als Sieger
-        feststeht.
-      </p>
-
-      <div class="notification is-info mt-6 has-text-centered">
-        Am <strong>Samstag, den 08.02.2025</strong> im
-        <strong>Maritim Hotel Ulm</strong>.
-      </div>
-
-      <section class="level mt-6">
+      <section class="level">
         <div class="level-item has-text-centered">
           <div>
             <p class="title">161</p>
@@ -40,6 +28,11 @@
         </div>
       </section>
 
+      <div class="notification is-info mt-6 has-text-centered">
+        Am <strong>Samstag, den 08.02.2025</strong> im
+        <strong>Maritim Hotel Ulm</strong>.
+      </div>
+
       <div class="mt-6">
         <p>
           Willst du auch dabei sein? Es ist noch Platz für
@@ -53,10 +46,9 @@
           161 Teams verfügbar
         </progress>
         <p>
-          Nur .. wie? Tja, auch das ist bei uns natürlich anders ツ Ihr könnt
-          euch nicht direkt anmelden (das wäre definitiv zu einfach): Jedes
-          angemeldete Team kann ein weiteres Team einladen. Also mal rumfragen,
-          ob ihr die Richtigen kennt!
+          Bei uns kannst du dich nicht einfach anmelden - du wirst eingeladen.
+          Jedes registrierte Team darf Jemanden vorschlagen der auch in Ulm an
+          den Start gehen möchte.
         </p>
       </div>
     </div>
