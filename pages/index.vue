@@ -73,25 +73,16 @@
 
       <div class="content mt-6">
         <p>
-          Zum letzten Mal? Ja, richtig! Bei Schachmatt Ulm geht es nicht nur
-          darum einmal nach oben zu laufen.
-          <strong>Das schnellere Team kommt jeweils eine Runde weiter</strong> -
-          das geht so lang, bis sich am Ende nur noch zwei Teams im Finale
-          gegenüber stehen.
-        </p>
-
-        <p>
           Alle 161 Teams starten ganz bequem in eine Qualifikationsrunde. Die
           schnellsten 128 Teams laufen anschließend in der ersten Runde in 64
-          zufälligen Paarungen gegeneinander. Das schnellere Team kommt eine
-          Runde weiter .. und läuft dort gegen ein anderes Team das in seiner
-          Paarung gewonnen hat.
+          zufälligen Paarungen gegeneinander. Das langsamere Team scheidet aus,
+          das schnellere Team kommt eine Runde weiter .. und läuft dort gegen
+          ein anderes Team das in seiner Paarung gewonnen hat.
         </p>
 
         <p>
-          Das Spiel geht so lange, bis sich am Ende nur noch zwei Teams im
-          Finale gegenüber stehen. Die letzte Runde entscheidet über Sieger und
-          Zweitplatzierten.
+          Bei Schachmatt Ulm wird so lange gelaufen, bis sich am Ende nur noch
+          zwei Teams im Finale gegenüber stehen.
         </p>
       </div>
     </div>
@@ -116,15 +107,15 @@
 
       <div class="content mt-6">
         <p>
-          Typischerweise erfährt man, nachdem man mit letzter Kraft durch's Ziel
-          gefallen ist, seine Zeit. <em>Oh nein, jetzt sagt er gleich:</em> Aber
-          nicht bei uns ツ <em>Verdammt.</em>
-        </p>
-
-        <p>
-          Wir sagen euch, welches Team in der Paarung das Schnellere war. Aber
-          nicht mit welcher Zeit - die Zeiten erfahrt ihr erst am Ende des
+          Wir sagen euch im Ziel, welches Team der Paarung das Schnellere war.
+          Aber nicht mit welcher Zeit - wie schnell euer nächster Gegner vorher
+          gelaufen ist wisst ihr nicht. Die Zeiten erfahrt ihr erst am Ende des
           gesamten Wettkampfes, nach der Siegerehrung.
+        </p>
+        <p>
+          Der Wettkampf wird gelaufen in kompletter Ausrüstung (Helm, Jacke,
+          Hose, Handschuhe & Stiefeln) mit geschultertem Atemschutzgerät. Alle
+          Teams in einer Kategorie.
         </p>
       </div>
     </div>
@@ -151,14 +142,15 @@
         <p>
           Gestartet wird in der Restaurant-Ebene. Am Start stehen sich die zwei
           Teams einer Paarung gegenüber, nachdem sie die Startlinie überquert
-          haben geht es in zwei separat verlaufene Treppenhäuser die jeweils bis
-          ins 16. Stockwerk führen.
+          haben geht es in zwei separat verlaufende Treppenhäuser die jeweils
+          bis ins 16. Stockwerk führen.
         </p>
 
         <p>
           Dort oben im Panorama-Restaurant des Maritim Hotel Ulm befindet sich
           das Ziel für beide Teams. Nach getaner Arbeit dürft ihr mit dem Aufzug
-          wieder hinunterfahren und euch auf die nächste Runde freuen ;)
+          wieder hinunterfahren und euch auf die nächste Runde freuen - sofern
+          ihr schneller gewesen seid als das andere Team ;)
         </p>
       </div>
     </div>
