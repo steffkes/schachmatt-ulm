@@ -82,7 +82,10 @@
 
         <p>
           Bei Schachmatt Ulm wird so lange gelaufen, bis sich am Ende nur noch
-          zwei Teams im Finale gegenüber stehen.
+          zwei Teams im Finale gegenüber stehen. Wer also in Mathe aufgepasst
+          hat, der wird schnell feststellen: Mindestens eine Runde, Höchstens
+          acht Runden. Also über 2'000 Stufen an einem Tag für die Teilnehmer im
+          Finale.
         </p>
       </div>
     </div>
