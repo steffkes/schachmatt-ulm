@@ -75,9 +75,11 @@
         <p>
           Alle 161 Teams starten ganz bequem in eine Qualifikationsrunde. Die
           schnellsten 128 Teams laufen anschließend in der ersten Runde in 64
-          zufälligen Paarungen gegeneinander. Das langsamere Team scheidet aus,
-          das schnellere Team kommt eine Runde weiter .. und läuft dort gegen
-          ein anderes Team das in seiner Paarung gewonnen hat.
+          zufälligen Paarungen gegeneinander. Ein Team besteht aus zwei Läufern,
+          die den ganzen Wettkampf zusammen bestreiten. Sie laufen immer zu
+          zweit gegen ein anderes Team: entweder gewinnen sie gemeinsam (dann
+          kommen sie eine Runde weiter) oder sie verlieren gemeinsam (dann
+          scheiden sie aus dem Wettkampf aus).
         </p>
 
         <p>
