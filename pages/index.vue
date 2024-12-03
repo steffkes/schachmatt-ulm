@@ -119,8 +119,9 @@
         </p>
         <p>
           Der Wettkampf wird gelaufen in kompletter Ausrüstung (Helm, Jacke,
-          Hose, Handschuhe & Stiefeln) mit geschultertem Atemschutzgerät. Alle
-          Teams in einer Kategorie.
+          Hose, Handschuhe & Stiefeln) mit geschultertem Atemschutzgerät. Das
+          Atemschutzgerät nicht angeschlossen, daher keine Maske notwendig. Eine
+          Flasche reicht aus. Alle Teams in einer Kategorie.
         </p>
       </div>
     </div>
