@@ -48,7 +48,11 @@
         <p>
           Bei uns kannst du dich nicht einfach anmelden - du wirst eingeladen.
           Jedes registrierte Team darf Jemanden vorschlagen der auch in Ulm an
-          den Start gehen möchte.
+          den Start gehen möchte. In der
+          <a href="https://my.raceresult.com/313906/participants"
+            >Liste aller Teilnehmer</a
+          >
+          ist ja vielleicht ein bekannter Name dabei?
         </p>
       </div>
     </div>
