@@ -1,4 +1,18 @@
 <template>
+  <div class="modal" :class="{ 'is-active': activeModal }">
+    <div class="modal-background"></div>
+    <div class="modal-content">
+      <p class="image">
+        <img src="/qr-code.svg" />
+      </p>
+    </div>
+    <button
+      class="modal-close is-large"
+      aria-label="close"
+      @click="activeModal = false"
+    ></button>
+  </div>
+
   <section
     class="section"
     style="
@@ -16,6 +30,13 @@
       </div>
     </div>
   </section>
+
+  <a
+    class="is-hidden-desktop"
+    @click="activeModal = true"
+    style="position: fixed; right: 0px; bottom: 0px"
+    ><img src="/qr-code.svg" style="opacity: 0.1; height: 20px; margin: 10px"
+  /></a>
 
   <NuxtPage />
 
@@ -79,6 +100,8 @@
 
 <script setup>
 const { event, formattedDate } = await useEvent();
+
+const activeModal = ref(false);
 
 useSeoMeta({
   description:
