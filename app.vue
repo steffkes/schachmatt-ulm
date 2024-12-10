@@ -38,6 +38,42 @@
     ><img src="/qr-code.svg" style="opacity: 0.1; height: 20px; margin: 10px"
   /></a>
 
+  <div class="container is-max-desktop">
+    <nav class="navbar" role="navigation" aria-label="main navigation">
+      <div class="navbar-brand">
+        <a
+          role="button"
+          class="navbar-burger"
+          :class="{ 'is-active': activeNavbar }"
+          aria-label="menu"
+          aria-expanded="false"
+          @click="toggleNavbar"
+        >
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+        </a>
+      </div>
+
+      <div class="navbar-menu" :class="{ 'is-active': activeNavbar }">
+        <div class="navbar-start">
+          <a href="/" class="navbar-item"> Startseite </a>
+
+          <div class="navbar-item has-dropdown is-hoverable">
+            <a class="navbar-link"> Teilnehmer </a>
+
+            <div class="navbar-dropdown">
+              <a href="/teilnehmer/infos" class="navbar-item">
+                Informationen
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </nav>
+  </div>
+
   <NuxtPage />
 
   <PartnerGrid />
@@ -102,6 +138,9 @@
 const { event, formattedDate } = await useEvent();
 
 const activeModal = ref(false);
+
+const activeNavbar = ref(false);
+const toggleNavbar = () => (activeNavbar.value = !activeNavbar.value);
 
 useSeoMeta({
   description:
