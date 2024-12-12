@@ -59,6 +59,7 @@
       <div class="navbar-menu" :class="{ 'is-active': activeNavbar }">
         <div class="navbar-start">
           <a href="/" class="navbar-item"> Startseite </a>
+          <a href="/wettkampf" class="navbar-item"> Wettkampf </a>
 
           <div class="navbar-item has-dropdown is-hoverable">
             <a class="navbar-link"> Teilnehmer </a>
