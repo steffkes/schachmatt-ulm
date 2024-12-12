@@ -322,7 +322,8 @@ mark {
 </style>
 
 <script setup>
-useHead({
+useSeoMeta({
   title: "Wettkampf",
+  description: "Wettkampfregeln & Haftungsausschluß",
 });
 </script>

@@ -160,5 +160,6 @@ const { registration } = await useEvent();
 
 useSeoMeta({
   title: "Infos für Teilnehmer",
+  description: "Wettkampfwochenende in Ulm & vergünstigte Übernachtung",
 });
 </script>

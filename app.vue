@@ -144,13 +144,6 @@ const activeNavbar = ref(false);
 const toggleNavbar = () => (activeNavbar.value = !activeNavbar.value);
 
 useSeoMeta({
-  description:
-    "Feuerwehr-Treppenlauf im K.O.-System (" +
-    formattedDate +
-    ") @ " +
-    event.location.name,
-  ogTitle: event.name + " (" + formattedDate + ")",
-  ogDescription: "Treppenlauf im K.O.-System @ " + event.location.name,
   ogImage: "/og.jpg",
 });
 
