@@ -52,7 +52,8 @@
           <a href="https://my.raceresult.com/313906/participants"
             >Liste aller Teilnehmer</a
           >
-          ist ja vielleicht ein bekannter Name dabei?
+          ist ja vielleicht ein bekannter Name dabei? Oder man traut sich
+          einfach und fragt vorsichtig beim Organisator nach ;)
         </p>
       </div>
     </div>
