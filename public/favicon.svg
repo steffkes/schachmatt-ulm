@@ -1,3 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" width="500" height="500"><svg id="SvgjsSvg1019" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500"><polygon points="440 224.987 314.937 153.797 271.646 177.848 396.709 249.038 440 224.987"></polygon><polygon points="396.709 297.139 271.646 225.949 228.354 250 353.418 321.19 396.709 297.139"></polygon><polygon points="228.354 298.101 353.418 369.291 310.127 393.342 185.063 322.152 228.354 298.101"></polygon><polygon points="146.582 106.658 146.582 154.759 271.646 225.949 271.646 177.848 146.582 106.658"></polygon><polygon points="103.291 178.81 103.291 226.911 228.354 298.101 228.354 250 103.291 178.81"></polygon><polygon points="60 250.962 60 299.063 185.063 370.253 185.063 322.152 60 250.962"></polygon></svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
-@media (prefers-color-scheme: dark) { :root { filter: none; } }
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" width="400" height="400"><svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M390 173.987L264.937 102.797L221.646 126.848L346.709 198.038L390 173.987Z" fill="black"></path>
+<path d="M346.709 246.139L221.646 174.949L178.354 199L303.418 270.19L346.709 246.139Z" fill="black"></path>
+<path d="M178.354 247.101L303.418 318.291L260.127 342.342L135.063 271.152L178.354 247.101Z" fill="black"></path>
+<path d="M96.582 55.658V103.759L221.646 174.949V126.848L96.582 55.658Z" fill="black"></path>
+<path d="M53.291 127.81V175.911L178.354 247.101V199L53.291 127.81Z" fill="black"></path>
+<path d="M10 199.962V248.063L135.063 319.253V271.152L10 199.962Z" fill="black"></path>
+</svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+@media (prefers-color-scheme: dark) { :root { filter: invert(100%); } }
 </style></svg>
