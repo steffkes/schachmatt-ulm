@@ -39,7 +39,7 @@
           {{ 161 - registration.registered }} Teams.
         </p>
         <progress
-          class="progress my-3 is-success"
+          class="progress my-3 is-warning"
           :value="161 - registration.registered"
           max="161"
         >
