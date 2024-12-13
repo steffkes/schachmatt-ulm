@@ -43,7 +43,7 @@
           :value="161 - registration.registered"
           max="161"
         >
-          161 Teams verfügbar
+          Noch {{ 161 - registration.registered }} Teams verfügbar
         </progress>
         <p>
           Bei uns kannst du dich nicht einfach anmelden - du wirst eingeladen.
