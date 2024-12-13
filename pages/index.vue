@@ -52,8 +52,12 @@
           <a href="https://my.raceresult.com/313906/participants"
             >Liste aller Teilnehmer</a
           >
-          ist ja vielleicht ein bekannter Name dabei? Oder man traut sich
-          einfach und fragt vorsichtig beim Organisator nach ;)
+          ist ja vielleicht ein bekannter Name dabei?
+        </p>
+
+        <p class="mt-4 has-text-grey-light">
+          Prämieren-Shortcut: Als Ausnahme im ersten Jahr gibt's die Startplätze
+          auch direkt beim Organisator.
         </p>
       </div>
     </div>
