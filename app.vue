@@ -80,13 +80,12 @@
   <PartnerGrid />
 
   <div
-    class="mt-6"
+    class="mt-6 fixed"
     style="
       min-height: 75vh;
       background-image: url(/images/P10003192583.jpg);
       background-size: cover;
       background-position: 75% 50%;
-      background-attachment: fixed;
     "
   ></div>
 
@@ -133,6 +132,16 @@
 
 <style>
 @import url("bulma");
+
+.fixed {
+  background-attachment: fixed;
+}
+
+@supports (-webkit-touch-callout: inherit) {
+  .fixed {
+    background-attachment: scroll;
+  }
+}
 </style>
 
 <script setup>
