@@ -103,23 +103,33 @@
       <div class="content">
         <blockquote>
           <table>
+            <caption class="has-text-grey-light">
+              Zimmerpreis pro Tag
+            </caption>
             <thead>
               <tr>
                 <th>Kategorie</th>
-                <th>Superior</th>
-                <th>Comfort</th>
-                <th>Classic</th>
+                <th>Doppelzimmer</th>
+                <th>Einzelzimmer</th>
               </tr>
             </thead>
             <tbody>
               <tr>
-                <th>Zimmerpreis pro Tag</th>
+                <th>Superior</th>
+                <td>175.80 €</td>
+                <td>139.90 €</td>
+              </tr>
 
-                <td>EZ: 139.90 €<br />DZ: 175.80 €</td>
+              <tr>
+                <th>Comfort</th>
+                <td>155.80 €</td>
+                <td>119.90 €</td>
+              </tr>
 
-                <td>EZ: 119.90 €<br />DZ: 155.80 €</td>
-
-                <td>EZ: 109.90 €<br />DZ: 145.80 €</td>
+              <tr>
+                <th>Classic</th>
+                <td>145.80 €</td>
+                <td>109.90 €</td>
               </tr>
             </tbody>
           </table>
