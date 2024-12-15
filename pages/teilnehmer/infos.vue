@@ -9,13 +9,12 @@
   </section>
 
   <div
-    class="mt-6"
+    class="mt-6 fixed"
     style="
       min-height: 50vh;
       background-image: url(/images/narrensprung.jpg);
       background-size: cover;
       background-position: 50% 50%;
-      background-attachment: fixed;
     "
   ></div>
 
@@ -85,13 +84,12 @@
   </section>
 
   <div
-    class="mt-6"
+    class="mt-6 fixed"
     style="
       min-height: 50vh;
       background-image: url(/images/P10003192527.jpg);
       background-size: cover;
       background-position: 10% 50%;
-      background-attachment: fixed;
     "
   ></div>
 
