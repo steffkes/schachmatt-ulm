@@ -1,7 +1,7 @@
 <template>
   <section class="section">
     <div class="container is-max-desktop">
-      <div class="columns is-multiline is-vcentered grid">
+      <div class="columns is-multiline is-vcentered as-grid">
         <div class="column is-4 has-text-centered">
           <a href="https://www.maritim.de/de/hotels/deutschland/hotel-ulm">
             <img src="/partner/maritim.svg"
@@ -28,14 +28,14 @@
 </template>
 
 <style>
-.grid img {
+.as-grid img {
   filter: grayscale(1);
   mix-blend-mode: multiply;
 }
-.grid img.invert {
+.as-grid img.invert {
   filter: invert(1);
 }
-.grid img.reduced {
+.as-grid img.reduced {
   opacity: 0.7;
 }
 </style>
