@@ -12,6 +12,11 @@
             <img src="/partner/kappelmeier.png" class="reduced" />
           </a>
         </div>
+        <div class="column is-4 has-text-centered">
+          <a href="https://www.uniklinik-ulm.de/">
+            <img src="/partner/uniklinik-ulm.svg" />
+          </a>
+        </div>
       </div>
     </div>
   </section>
