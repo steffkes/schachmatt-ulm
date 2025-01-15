@@ -17,6 +17,11 @@
             <img src="/partner/uniklinik-ulm.svg" />
           </a>
         </div>
+        <div class="column is-4 has-text-centered">
+          <a href="https://dietenbronner.de/">
+            <img src="/partner/dietenbronner.svg" />
+          </a>
+        </div>
       </div>
     </div>
   </section>
