@@ -35,11 +35,11 @@
 
       <div class="mt-6">
         <p>
-          Willst du auch dabei sein? Es ist noch Platz für
+          Willst du auch dabei sein? Es ist nur noch Platz für
           {{ 161 - registration.registered }} Teams.
         </p>
         <progress
-          class="progress my-3 is-warning"
+          class="progress my-3 is-danger"
           :value="161 - registration.registered"
           max="161"
         >
