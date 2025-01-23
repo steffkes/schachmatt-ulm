@@ -3,16 +3,6 @@
     <div class="container is-max-desktop">
       <div class="columns is-multiline is-vcentered as-grid">
         <div class="column is-4 has-text-centered">
-          <a href="https://www.maritim.de/de/hotels/deutschland/hotel-ulm">
-            <img src="/partner/maritim.svg"
-          /></a>
-        </div>
-        <div class="column is-4 has-text-centered">
-          <a href="https://www.kappelmeier-fotografie.de/">
-            <img src="/partner/kappelmeier.png" class="reduced" />
-          </a>
-        </div>
-        <div class="column is-4 has-text-centered">
           <a href="https://www.denzel-fireequipment.de">
             <img src="/partner/denzel.png" />
           </a>
@@ -28,13 +18,23 @@
           </a>
         </div>
         <div class="column is-4 has-text-centered">
-          <a href="https://www.fruchthof.de">
-            <img src="/partner/fruchthof-nagel.png" />
+          <a href="https://www.maritim.de/de/hotels/deutschland/hotel-ulm">
+            <img src="/partner/maritim.svg"
+          /></a>
+        </div>
+        <div class="column is-4 has-text-centered">
+          <a href="https://www.kappelmeier-fotografie.de/">
+            <img src="/partner/kappelmeier.png" class="reduced" />
           </a>
         </div>
         <div class="column is-4 has-text-centered">
           <a href="https://www.uniklinik-ulm.de/">
             <img src="/partner/uniklinik-ulm.svg" />
+          </a>
+        </div>
+        <div class="column is-4 has-text-centered">
+          <a href="https://www.fruchthof.de">
+            <img src="/partner/fruchthof-nagel.png" />
           </a>
         </div>
       </div>
