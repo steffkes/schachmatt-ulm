@@ -13,8 +13,8 @@
           </a>
         </div>
         <div class="column is-4 has-text-centered">
-          <a href="https://www.uniklinik-ulm.de/">
-            <img src="/partner/uniklinik-ulm.svg" />
+          <a href="https://www.denzel-fireequipment.de">
+            <img src="/partner/denzel.png" />
           </a>
         </div>
         <div class="column is-4 has-text-centered">
@@ -25,6 +25,11 @@
         <div class="column is-4 has-text-centered">
           <a href="https://www.fruchthof.de">
             <img src="/partner/fruchthof-nagel.png" />
+          </a>
+        </div>
+        <div class="column is-4 has-text-centered">
+          <a href="https://www.uniklinik-ulm.de/">
+            <img src="/partner/uniklinik-ulm.svg" />
           </a>
         </div>
       </div>
