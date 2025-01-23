@@ -18,6 +18,11 @@
           </a>
         </div>
         <div class="column is-4 has-text-centered">
+          <a href="https://www.proaurum.de/unternehmen/standorte/ulm/">
+            <img src="/partner/pro-aurum.svg" class="reduced" />
+          </a>
+        </div>
+        <div class="column is-4 has-text-centered">
           <a href="https://dietenbronner.de/">
             <img src="/partner/dietenbronner.svg" />
           </a>
