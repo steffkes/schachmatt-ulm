@@ -35,29 +35,11 @@
 
       <div class="mt-6">
         <p>
-          Willst du auch dabei sein? Es ist nur noch Platz für
-          {{ 161 - registration.registered }} Teams.
-        </p>
-        <progress
-          class="progress my-3 is-danger"
-          :value="161 - registration.registered"
-          max="161"
-        >
-          Noch {{ 161 - registration.registered }} Teams verfügbar
-        </progress>
-        <p>
-          Bei uns kannst du dich nicht einfach anmelden - du wirst eingeladen.
-          Jedes registrierte Team darf Jemanden vorschlagen der auch in Ulm an
-          den Start gehen möchte. In der
-          <a href="https://my.raceresult.com/313906/participants"
-            >Liste aller Teilnehmer</a
-          >
-          ist ja vielleicht ein bekannter Name dabei?
-        </p>
-
-        <p class="mt-4 has-text-grey-light">
-          Prämieren-Shortcut: Als Ausnahme im ersten Jahr gibt's die Startplätze
-          auch direkt beim Organisator.
+          Die Anmeldung ist für dieses Jahr geschlossen. Du willst nächstes Jahr
+          unbedingt mit dabei sein? Dann
+          <a href="https://airtable.com/appZnWtcgYgbjEPBs/shrqwZ67Y0WiuJfxA">
+            trag dich in die Interessenliste 2026 ein</a
+          >.
         </p>
       </div>
     </div>
