@@ -10,7 +10,7 @@
         <div class="content">
           <h3>Zahlen & Fakten</h3>
           <p class="mb-4">
-            Extra mit Stift, Papier & Zollstock unterwegs gewesen ;) Daher kann
+            Extra mit Stift, Papier & Meterstab unterwegs gewesen ;) Daher kann
             ich euch sagen, für eine Runde warten auf euch:
           </p>
         </div>
