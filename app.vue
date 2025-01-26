@@ -68,6 +68,9 @@
               <a href="/teilnehmer/infos" class="navbar-item">
                 Informationen
               </a>
+              <a href="/teilnehmer/organisatorisches" class="navbar-item">
+                Organisatorisches
+              </a>
             </div>
           </div>
         </div>
