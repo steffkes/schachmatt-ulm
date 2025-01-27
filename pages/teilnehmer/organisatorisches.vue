@@ -72,6 +72,13 @@
                 >)
               </li>
               <li>
+                Contipark Tiefgarage Brückenhaus, Insel 14, 89231 Neu-Ulm<br />
+                (15 Minuten Fußweg) (<a
+                  href="https://maps.app.goo.gl/8Tkp6XxKhVfiG3FUA"
+                  >Google Maps</a
+                >)
+              </li>
+              <li>
                 Parkhaus am Rathaus, Neue Str., 89073 Ulm<br />(20 Minuten
                 Fußweg) (<a href="https://maps.app.goo.gl/pPzabjbSmuZMQc768"
                   >Google Maps</a
