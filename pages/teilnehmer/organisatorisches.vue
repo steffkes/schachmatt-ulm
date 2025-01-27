@@ -51,6 +51,33 @@
       </div>
 
       <div class="content">
+        <h3>Location</h3>
+
+        <div class="columns">
+          <div class="column">
+            <blockquote>
+              Das Maritim Hotel Ulm liegt direkt an der Donau und eröffnet,
+              insbesondere vom Restaurant in der 16. Etage, einen fantastischen
+              Blick auf das Ulmer Münster sowie ganz Ulm und Neu-Ulm.
+            </blockquote>
+
+            <p>
+              Adresse: Maritim Hotel Ulm, Basteistraße 40, 89073 Ulm (<a
+                href="https://maps.app.goo.gl/zMkYUTAeSviYzvFg8"
+                >Google Maps</a
+              >)
+            </p>
+          </div>
+          <div class="column">
+            <figure class="image">
+              <img
+                src="/maritim-hotel-ulm.jpg"
+                alt="Außenansicht des Maritim Hotel Ulm"
+              />
+            </figure>
+          </div>
+        </div>
+
         <h3>Zeitplan</h3>
 
         <div class="notification is-warning">
