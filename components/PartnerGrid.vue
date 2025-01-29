@@ -37,6 +37,11 @@
             <img src="/partner/fruchthof-nagel.png" />
           </a>
         </div>
+        <div class="column is-4 has-text-centered">
+          <a href="https://restaurants.subway.com/de/deutschland/by/neu-ulm">
+            <img src="/partner/subway.svg" />
+          </a>
+        </div>
       </div>
     </div>
   </section>
