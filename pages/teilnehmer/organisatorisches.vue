@@ -126,35 +126,35 @@
           </li>
           <li>
             <time class="has-text-grey-light">08:30 Uhr</time> Start Runde Q:
-            alle Teams (Qualifikation)
+            alle Teams (Qualifikation) (Ein Team alle 30 Sekunden)
           </li>
           <li>
             <time class="has-text-grey-light">10:00 Uhr</time> Start Runde 1:
-            128 Teams
+            128 Teams (Eine Paarung alle 30 Sekunden)
           </li>
           <li>
             <time class="has-text-grey-light">11:00 Uhr</time> Start Runde 2: 64
-            Teams
+            Teams (Eine Paarung alle 30 Sekunden)
           </li>
           <li>
             <time class="has-text-grey-light">11:30 Uhr</time> Start Runde 3: 32
-            Teams
+            Teams (Eine Paarung jede Minute)
           </li>
           <li>
             <time class="has-text-grey-light">12:00 Uhr</time> Start Runde 4: 16
-            Teams (Achtelfinale)
+            Teams (Achtelfinale) (Eine Paarung jede Minute)
           </li>
           <li>
             <time class="has-text-grey-light">12:30 Uhr</time> Start Runde 5: 8
-            Teams (Viertelfinale)
+            Teams (Viertelfinale) (Eine Paarung alle zwei Minuten)
           </li>
           <li>
             <time class="has-text-grey-light">13:00 Uhr</time> Start Runde 6: 4
-            Teams (Halbfinale)
+            Teams (Halbfinale) (Eine Paarung alle zwei Minuten)
           </li>
           <li>
             <time class="has-text-grey-light">13:30 Uhr</time> Start Runde 7: 2
-            Teams (Finale)
+            Teams (Finale, groß & klein)
           </li>
           <li>
             <time class="has-text-grey-light">13:45 Uhr</time> Siegerehrung
