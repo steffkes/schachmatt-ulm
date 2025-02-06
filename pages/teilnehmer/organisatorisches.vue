@@ -56,60 +56,77 @@
         <div class="columns">
           <div class="column">
             <h4>Wettkampf</h4>
-            <p>
-              Maritim Hotel Ulm, Basteistraße 40, 89073 Ulm (<a
-                href="https://maps.app.goo.gl/zMkYUTAeSviYzvFg8"
-                >Google Maps</a
-              >)
-            </p>
-
-            <h4>Parkhäuser</h4>
-            <ul>
-              <li>
-                Congress Centrum Süd, Basteistraße 46, 89073 Ulm<br />(direkt am
-                Hotel) (<a href="https://maps.app.goo.gl/mnjcQi9M31RHPm8f7"
+            <dl>
+              <dt>Maritim Hotel Ulm</dt>
+              <dd>Basteistraße 40, 89073 Ulm</dd>
+              <dd>
+                (<a href="https://maps.app.goo.gl/zMkYUTAeSviYzvFg8"
                   >Google Maps</a
                 >)
-              </li>
-              <li>
-                Contipark Tiefgarage Brückenhaus, Insel 14, 89231 Neu-Ulm<br />
+              </dd>
+            </dl>
+
+            <h4>Parkhäuser</h4>
+            <dl>
+              <dt>Congress Centrum Süd</dt>
+              <dd>Basteistraße 46, 89073 Ulm</dd>
+              <dd>
+                (direkt am Hotel) (<a
+                  href="https://maps.app.goo.gl/mnjcQi9M31RHPm8f7"
+                  >Google Maps</a
+                >)
+              </dd>
+
+              <dt>Contipark Tiefgarage Brückenhaus</dt>
+              <dd>Insel 14, 89231 Neu-Ulm</dd>
+              <dd>
                 (15 Minuten Fußweg) (<a
                   href="https://maps.app.goo.gl/8Tkp6XxKhVfiG3FUA"
                   >Google Maps</a
                 >)
-              </li>
-              <li>
-                Parkhaus am Rathaus, Neue Str., 89073 Ulm<br />(20 Minuten
-                Fußweg) (<a href="https://maps.app.goo.gl/pPzabjbSmuZMQc768"
+              </dd>
+
+              <dt>Parkhaus am Rathaus</dt>
+              <dd>Neue Straße, 89073 Ulm</dd>
+              <dd>
+                (20 Minuten Fußweg) (<a
+                  href="https://maps.app.goo.gl/pPzabjbSmuZMQc768"
                   >Google Maps</a
                 >)
-              </li>
-              <li>
-                Parkhaus Salzstadel, Küfergasse 10, 89073 Ulm<br />(20 Minuten
-                Fußweg) (<a href="https://maps.app.goo.gl/ytk7srG2CuecesNB8"
+              </dd>
+
+              <dt>Parkhaus Salzstadel</dt>
+              <dd>Küfergasse 10, 89073 Ulm</dd>
+              <dd>
+                (20 Minuten Fußweg) (<a
+                  href="https://maps.app.goo.gl/ytk7srG2CuecesNB8"
                   >Google Maps</a
                 >)
-              </li>
-            </ul>
+              </dd>
+            </dl>
 
             <h4>Parkplätze</h4>
 
-            <ul>
-              <li>
-                Parkplatz Friedrichsau, Friedrichsaustraße 33, 89073 Ulm<br />
+            <dl>
+              <dt>Parkplatz Friedrichsau</dt>
+              <dt></dt>
+              <dd>Friedrichsaustraße 33, 89073 Ulm</dd>
+              <dd>
                 (15 Minuten Fußweg) (<a
                   href="https://maps.app.goo.gl/RKR3iMAoc3oJ44jU7"
                   >Google Maps</a
                 >)
-              </li>
-              <li>
-                Parkplatz Donauhalle, Böfinger Str., 89073 Ulm<br />
+              </dd>
+
+              <dt>Parkplatz Donauhalle</dt>
+              <dd>Böfinger Straße, 89073 Ulm</dd>
+              <dd>
                 (20 Minuten Fußweg) (<a
                   href="https://maps.app.goo.gl/b3BcM6b9L4rK5Pbn7"
                   >Google Maps</a
                 >)
-              </li>
-            </ul>
+              </dd>
+            </dl>
           </div>
           <div class="column">
             <figure class="image">
