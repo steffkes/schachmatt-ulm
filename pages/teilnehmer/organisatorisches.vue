@@ -75,6 +75,37 @@
           </div>
         </div>
 
+        <h3>Pläne</h3>
+
+        <div class="tags">
+          <span class="tag is-white">Legende</span>
+          <span class="tag is-warning">Teilnehmer</span>
+          <span class="tag is-success">Laufstrecke</span>
+          <span class="tag is-link">Start & Ziel</span>
+          <span class="tag is-danger">Zuschauer</span>
+        </div>
+
+        <div class="columns is-8 is-align-items-end">
+          <div class="column">
+            <figure class="image">
+              <img src="/maritim-hotel-ulm-plan-eg.png" />
+            </figure>
+            <p><strong>Eingang</strong>: Erdgeschoss (EG)</p>
+          </div>
+          <div class="column">
+            <figure class="image">
+              <img src="/maritim-hotel-ulm-plan-og.png" />
+            </figure>
+            <p><strong>Start</strong>: Obergeschoss (1. OG)</p>
+          </div>
+          <div class="column">
+            <figure class="image">
+              <img src="/maritim-hotel-ulm-plan-16.png" />
+            </figure>
+            <p><strong>Ziel</strong>: Panorama-Restaurant (16. OG)</p>
+          </div>
+        </div>
+
         <h3>Parken</h3>
 
         <div class="columns">
