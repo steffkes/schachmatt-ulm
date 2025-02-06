@@ -132,7 +132,7 @@
             der Startunterlagen
           </li>
           <li>
-            <time class="has-text-grey-light">08:30 Uhr</time> Start Runde 0:
+            <time class="has-text-grey-light">08:30 Uhr</time> Start Runde Q:
             alle Teams (Qualifikation)
           </li>
           <li>
