@@ -51,11 +51,10 @@
       </div>
 
       <div class="content">
-        <h3>Location</h3>
+        <h3>Wettkampf-Location</h3>
 
         <div class="columns">
           <div class="column">
-            <h4>Wettkampf</h4>
             <dl>
               <dt>Maritim Hotel Ulm</dt>
               <dd>Basteistraße 40, 89073 Ulm</dd>
@@ -65,7 +64,21 @@
                 >)
               </dd>
             </dl>
+          </div>
+          <div class="column">
+            <figure class="image">
+              <img
+                src="/maritim-hotel-ulm.jpg"
+                alt="Außenansicht des Maritim Hotel Ulm"
+              />
+            </figure>
+          </div>
+        </div>
 
+        <h3>Parken</h3>
+
+        <div class="columns">
+          <div class="column">
             <h4>Parkhäuser</h4>
             <dl>
               <dt>Congress Centrum Süd</dt>
@@ -104,7 +117,8 @@
                 >)
               </dd>
             </dl>
-
+          </div>
+          <div class="column">
             <h4>Parkplätze</h4>
 
             <dl>
@@ -127,14 +141,6 @@
                 >)
               </dd>
             </dl>
-          </div>
-          <div class="column">
-            <figure class="image">
-              <img
-                src="/maritim-hotel-ulm.jpg"
-                alt="Außenansicht des Maritim Hotel Ulm"
-              />
-            </figure>
           </div>
         </div>
 
