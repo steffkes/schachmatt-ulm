@@ -91,6 +91,25 @@
                 >)
               </li>
             </ul>
+
+            <h4>Parkplätze</h4>
+
+            <ul>
+              <li>
+                Parkplatz Friedrichsau, Friedrichsaustraße 33, 89073 Ulm<br />
+                (15 Minuten Fußweg) (<a
+                  href="https://maps.app.goo.gl/RKR3iMAoc3oJ44jU7"
+                  >Google Maps</a
+                >)
+              </li>
+              <li>
+                Parkplatz Donauhalle, Böfinger Str., 89073 Ulm<br />
+                (20 Minuten Fußweg) (<a
+                  href="https://maps.app.goo.gl/b3BcM6b9L4rK5Pbn7"
+                  >Google Maps</a
+                >)
+              </li>
+            </ul>
           </div>
           <div class="column">
             <figure class="image">
