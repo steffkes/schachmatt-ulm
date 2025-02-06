@@ -121,8 +121,8 @@
 
           <dt class="mt-2"><span class="tag is-danger">Zuschauer</span></dt>
           <dd>
-            Zuschauer fahren aus der Lobbdy direkt in das Panorama-Restaurant
-            (16. OG) und haben dort den besten Blick.
+            Zuschauer fahren von der Lobby direkt mit dem Aufzug in das
+            Panorama-Restaurant (16. OG) und haben dort den besten Blick.
           </dd>
         </dl>
 
