@@ -104,13 +104,6 @@
 
         <h3>Zeitplan</h3>
 
-        <div class="notification is-warning">
-          <p>
-            Dieser Zeitplan ist vorläufig, muss noch abgestimmt werden und kann
-            sich daher ändern!
-          </p>
-        </div>
-
         <h4>Freitag, 07.02.2025</h4>
 
         <ul>
