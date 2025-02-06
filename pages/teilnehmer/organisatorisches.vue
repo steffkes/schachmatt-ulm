@@ -125,60 +125,58 @@
 
         <h4>Freitag, 07.02.2025</h4>
 
-        <ul>
-          <li>
-            <time class="has-text-grey-light">17:00 - 19:00 Uhr</time> Abholung
-            der Startunterlagen
-          </li>
-          <li>
-            <time class="has-text-grey-light">19:00 Uhr</time> Besichtigung der
-            Wettkampfstrecke
-          </li>
-        </ul>
+        <dl>
+          <dt><time class="has-text-grey-light">17:00 - 19:00 Uhr</time></dt>
+          <dd>Abholung der Startunterlagen</dd>
+
+          <dt><time class="has-text-grey-light">19:00 Uhr</time></dt>
+          <dd>Besichtigung der Wettkampfstrecke</dd>
+        </dl>
 
         <h4>Samstag, 08.02.2025 (Wettkampftag)</h4>
 
-        <ul>
-          <li>
-            <time class="has-text-grey-light">07:00 - 08:00 Uhr</time> Abholung
-            der Startunterlagen
-          </li>
-          <li>
-            <time class="has-text-grey-light">08:30 Uhr</time> Start Runde Q:
-            alle Teams (Qualifikation) (Ein Team alle 30 Sekunden)
-          </li>
-          <li>
-            <time class="has-text-grey-light">10:00 Uhr</time> Start Runde 1:
-            128 Teams (Eine Paarung alle 30 Sekunden)
-          </li>
-          <li>
-            <time class="has-text-grey-light">11:00 Uhr</time> Start Runde 2: 64
-            Teams (Eine Paarung alle 30 Sekunden)
-          </li>
-          <li>
-            <time class="has-text-grey-light">11:30 Uhr</time> Start Runde 3: 32
-            Teams (Eine Paarung jede Minute)
-          </li>
-          <li>
-            <time class="has-text-grey-light">12:00 Uhr</time> Start Runde 4: 16
-            Teams (Achtelfinale) (Eine Paarung jede Minute)
-          </li>
-          <li>
-            <time class="has-text-grey-light">12:30 Uhr</time> Start Runde 5: 8
-            Teams (Viertelfinale) (Eine Paarung alle zwei Minuten)
-          </li>
-          <li>
-            <time class="has-text-grey-light">13:00 Uhr</time> Start Runde 6: 4
-            Teams (Halbfinale) (Eine Paarung alle zwei Minuten)
-          </li>
-          <li>
-            <time class="has-text-grey-light">13:30 Uhr</time> Start Runde 7: 2
-            Teams (Finale, groß & klein)
-          </li>
-          <li>
-            <time class="has-text-grey-light">13:45 Uhr</time> Siegerehrung
-          </li>
-        </ul>
+        <dl>
+          <dt>
+            <time class="has-text-grey-light">07:00 - 08:00 Uhr</time>
+          </dt>
+          <dd>Abholung der Startunterlagen</dd>
+
+          <dt>
+            <time class="has-text-grey-light">08:30 Uhr</time>
+          </dt>
+          <dd>Start Runde Q: alle Teams (Qualifikation)</dd>
+          <dd>Ein Team alle 30 Sekunden</dd>
+
+          <dt><time class="has-text-grey-light">10:00 Uhr</time></dt>
+          <dd>Start Runde 1: 128 Teams</dd>
+          <dd>Eine Paarung alle 30 Sekunden</dd>
+
+          <dt><time class="has-text-grey-light">11:00 Uhr</time></dt>
+          <dd>Start Runde 2: 64 Teams</dd>
+          <dd>Eine Paarung alle 30 Sekunden</dd>
+
+          <dt><time class="has-text-grey-light">11:30 Uhr</time></dt>
+          <dd>Start Runde 3: 32 Teams</dd>
+          <dd>Eine Paarung jede Minute</dd>
+
+          <dt><time class="has-text-grey-light">12:00 Uhr</time></dt>
+          <dd>Start Runde 4: 16 Teams (Achtelfinale)</dd>
+          <dd>Eine Paarung jede Minute</dd>
+
+          <dt><time class="has-text-grey-light">12:30 Uhr</time></dt>
+          <dd>Start Runde 5: 8 Teams (Viertelfinale)</dd>
+          <dd>Eine Paarung alle zwei Minuten</dd>
+
+          <dt><time class="has-text-grey-light">13:00 Uhr</time></dt>
+          <dd>Start Runde 6: 4 Teams (Halbfinale)</dd>
+          <dd>Eine Paarung alle zwei Minuten</dd>
+
+          <dt><time class="has-text-grey-light">13:30 Uhr</time></dt>
+          <dd>Start Runde 7: 2 Teams (Finale, groß & klein)</dd>
+
+          <dt><time class="has-text-grey-light">13:45 Uhr</time></dt>
+          <dd>Siegerehrung</dd>
+        </dl>
 
         <h3>Überholen</h3>
 
