@@ -82,13 +82,13 @@
             <figure class="image">
               <img src="/maritim-hotel-ulm-plan-eg.png" />
             </figure>
-            <p><strong>Eingang</strong>: Erdgeschoss (EG)</p>
+            <p><strong>Eingang</strong>: Erdgeschoss</p>
           </div>
           <div class="column">
             <figure class="image">
               <img src="/maritim-hotel-ulm-plan-og.png" />
             </figure>
-            <p><strong>Start</strong>: Obergeschoss (1. OG)</p>
+            <p><strong>Start</strong>: Obergeschoss</p>
           </div>
           <div class="column">
             <figure class="image">
