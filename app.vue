@@ -71,6 +71,12 @@
               <a href="/teilnehmer/organisatorisches" class="navbar-item">
                 Organisatorisches
               </a>
+              <a
+                href="https://my.raceresult.com/313906/participants"
+                class="navbar-item"
+              >
+                Meldeliste
+              </a>
             </div>
           </div>
         </div>
