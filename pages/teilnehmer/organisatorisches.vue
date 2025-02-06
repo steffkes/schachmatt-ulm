@@ -77,14 +77,6 @@
 
         <h3>Pläne</h3>
 
-        <div class="tags">
-          <span class="tag is-white">Legende</span>
-          <span class="tag is-warning">Teilnehmer</span>
-          <span class="tag is-success">Laufstrecke</span>
-          <span class="tag is-link">Start & Ziel</span>
-          <span class="tag is-danger">Zuschauer</span>
-        </div>
-
         <div class="columns is-8 is-align-items-end">
           <div class="column">
             <figure class="image">
@@ -105,6 +97,34 @@
             <p><strong>Ziel</strong>: Panorama-Restaurant (16. OG)</p>
           </div>
         </div>
+
+        <dl>
+          <dt><span class="tag is-warning">Teilnehmer</span></dt>
+          <dd>
+            Alle Teilnehmer holen bitte direkt am Eingang im Erdgeschoss ihre
+            Startunterlagen ab, gehen dann weiter zum Start ins Obergeschoss
+            (Treppe rauf)
+          </dd>
+
+          <dt class="mt-2"><span class="tag is-success">Laufstrecke</span></dt>
+          <dd>
+            Die Laufstrecke führt vom gemeinsamen Start (über das nördliche und
+            südliche Treppenhaus) zum gemeinsamen Ziel im Panorama-Restaurant
+            (16. OG)
+          </dd>
+
+          <dt class="mt-2"><span class="tag is-link">Start & Ziel</span></dt>
+          <dd>
+            Start (im Obergeschoss) & Ziel (im Panorama-Restaurant) werden durch
+            drei Aufzüge direkt miteinander verbunden
+          </dd>
+
+          <dt class="mt-2"><span class="tag is-danger">Zuschauer</span></dt>
+          <dd>
+            Zuschauer fahren aus der Lobbdy direkt in das Panorama-Restaurant
+            (16. OG) und haben dort den besten Blick.
+          </dd>
+        </dl>
 
         <h3>Parken</h3>
 
