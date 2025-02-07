@@ -82,6 +82,12 @@
         </div>
       </div>
     </nav>
+
+    <a
+      href="https://my.raceresult.com/313906/results"
+      class="button is-fullwidth is-black my-6"
+      >Start- & Ergebnislisten</a
+    >
   </div>
 
   <NuxtPage />
