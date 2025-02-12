@@ -28,15 +28,9 @@
         </div>
       </section>
 
-      <div class="notification is-info mt-6 has-text-centered">
-        Am <strong>Samstag, den 08.02.2025</strong> im
-        <strong>Maritim Hotel Ulm</strong>.
-      </div>
-
       <div class="mt-6">
         <p>
-          Die Anmeldung ist für dieses Jahr geschlossen. Du willst nächstes Jahr
-          unbedingt mit dabei sein? Dann
+          Du willst nächstes Jahr unbedingt mit dabei sein? Dann
           <a href="https://airtable.com/appZnWtcgYgbjEPBs/shrqwZ67Y0WiuJfxA">
             trag dich in die Interessenliste 2026 ein</a
           >.

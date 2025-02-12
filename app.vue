@@ -60,34 +60,9 @@
         <div class="navbar-start">
           <a href="/" class="navbar-item"> Startseite </a>
           <a href="/wettkampf" class="navbar-item"> Wettkampf </a>
-
-          <div class="navbar-item has-dropdown is-hoverable">
-            <a class="navbar-link"> Teilnehmer </a>
-
-            <div class="navbar-dropdown">
-              <a href="/teilnehmer/infos" class="navbar-item">
-                Informationen
-              </a>
-              <a href="/teilnehmer/organisatorisches" class="navbar-item">
-                Organisatorisches
-              </a>
-              <a
-                href="https://my.raceresult.com/313906/participants"
-                class="navbar-item"
-              >
-                Meldeliste
-              </a>
-            </div>
-          </div>
         </div>
       </div>
     </nav>
-
-    <a
-      href="https://my.raceresult.com/313906/results"
-      class="button is-fullwidth is-black my-6"
-      >Start- & Ergebnislisten</a
-    >
   </div>
 
   <NuxtPage />
