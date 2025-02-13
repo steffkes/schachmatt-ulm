@@ -39,23 +39,13 @@
     </div>
   </section>
 
-  <div
-    class="mt-6 fixed"
-    style="
-      min-height: 50vh;
-      background-image: url(/images/517_DSC02999.jpg);
-      background-size: cover;
-      background-position: 65% 50%;
-    "
-  ></div>
+  <ImageSection url="/images/517_DSC02999.jpg" :position="{ x: 65 }">
+    Claudio war eindeutig froh, als er oben angekommen ist ;)
+  </ImageSection>
 
-  <section class="section pt-2">
+  <section class="section">
     <div class="container is-max-desktop">
-      <p class="has-text-grey-light">
-        Claudio war eindeutig froh, als er oben angekommen ist ;)
-      </p>
-
-      <div class="content mt-6">
+      <div class="content">
         <p>Impressionen von der Premiere 2025</p>
 
         <div class="grid is-col-min-12">
@@ -106,23 +96,13 @@
     </div>
   </section>
 
-  <div
-    class="mt-6 fixed"
-    style="
-      min-height: 50vh;
-      background-image: url(/images/339_Z7B_9652.jpg);
-      background-size: cover;
-      background-position: 50% 50%;
-    "
-  ></div>
+  <ImageSection url="/images/339_Z7B_9652.jpg" :position="{ x: 50 }">
+    Zwei Teams stehen sich am Start gegenüber: das Langsamere scheidet aus.
+  </ImageSection>
 
-  <section class="section pt-2">
+  <section class="section">
     <div class="container is-max-desktop">
-      <p class="has-text-grey-light">
-        Zwei Teams stehen sich am Start gegenüber: das Langsamere scheidet aus.
-      </p>
-
-      <div class="content mt-6">
+      <div class="content">
         <p>
           Alle 161 Teams starten ganz bequem in eine Qualifikationsrunde. Die
           schnellsten 128 Teams laufen anschließend in der ersten Runde in 64
@@ -144,23 +124,13 @@
     </div>
   </section>
 
-  <div
-    class="mt-6 fixed"
-    style="
-      min-height: 50vh;
-      background-image: url(/images/170_Z7B_9489.jpg);
-      background-size: cover;
-      background-position: 60% 50%;
-    "
-  ></div>
+  <ImageSection url="/images/170_Z7B_9489.jpg" :position="{ x: 60 }">
+    Das ist euer Ausblick nach dem Zieleinlauf.
+  </ImageSection>
 
-  <section class="section pt-2">
+  <section class="section">
     <div class="container is-max-desktop">
-      <p class="has-text-grey-light">
-        Das ist euer Ausblick nach dem Zieleinlauf.
-      </p>
-
-      <div class="content mt-6">
+      <div class="content">
         <p>
           Wir sagen euch im Ziel, welches Team der Paarung das Schnellere war.
           Aber nicht mit welcher Zeit - wie schnell euer nächster Gegner vorher
@@ -177,23 +147,13 @@
     </div>
   </section>
 
-  <div
-    class="mt-6 fixed"
-    style="
-      min-height: 50vh;
-      background-image: url(/images/022_Z7B_9362.jpg);
-      background-size: cover;
-      background-position: 40% 50%;
-    "
-  ></div>
+  <ImageSection url="/images/022_Z7B_9362.jpg" :position="{ x: 40 }">
+    Denn unsere Wettkampf-Location ist das Maritim Hotel Ulm!
+  </ImageSection>
 
-  <section class="section pt-2">
+  <section class="section">
     <div class="container is-max-desktop">
-      <p class="has-text-grey-light">
-        Denn unsere Wettkampf-Location ist das Maritim Hotel Ulm!
-      </p>
-
-      <div class="content mt-6">
+      <div class="content">
         <p>
           Gestartet wird in der Restaurant-Ebene. Am Start stehen sich die zwei
           Teams einer Paarung gegenüber, nachdem sie die Startlinie überquert
