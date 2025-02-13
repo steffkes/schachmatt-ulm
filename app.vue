@@ -25,7 +25,7 @@
     <div class="container is-max-desktop">
       <div class="columns">
         <div class="column is-two-fifths">
-          <img src="/schachmatt-ulm.svg" />
+          <a href="/"><img src="/schachmatt-ulm.svg" /></a>
         </div>
       </div>
     </div>
