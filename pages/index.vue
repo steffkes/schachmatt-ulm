@@ -96,6 +96,54 @@
     </div>
   </section>
 
+  <ImageSection url="/images/403_DSC09531.jpg" :position="{ x: 60 }">
+    Auch wenn es "nur" 18 Stockwerke sind …
+  </ImageSection>
+
+  <section class="section">
+    <div class="container is-max-desktop">
+      <p class="mb-3">Was unsere Teilnehmer über Schachmatt Ulm sagen:</p>
+
+      <article class="message">
+        <div class="message-body">
+          <blockquote>
+            <p>Man muss eigentlich immer Vollgas geben.</p>
+          </blockquote>
+          <p class="mt-2">
+            — <strong>Anja</strong>
+            <span class="ml-2 has-text-grey"
+              >(Feuerwehr Essingen, Abteilung Lauterburg)</span
+            >
+          </p>
+        </div>
+      </article>
+
+      <article class="message">
+        <div class="message-body">
+          <blockquote>
+            <p>Wenn es gar nicht mehr geht, gilt nur Zähne zusammenbeißen.</p>
+          </blockquote>
+          <p class="mt-2">
+            — <strong>Hannes</strong>
+            <span class="ml-2 has-text-grey">(Feuerwehr Ulm)</span>
+          </p>
+        </div>
+      </article>
+
+      <article class="message">
+        <div class="message-body">
+          <blockquote>
+            <p>Es tut schon weh, aber ist irgendwie geil.</p>
+          </blockquote>
+          <p class="mt-2">
+            — <strong>Lukas</strong>
+            <span class="ml-2 has-text-grey">(Feuerwehr Ulm)</span>
+          </p>
+        </div>
+      </article>
+    </div>
+  </section>
+
   <ImageSection url="/images/339_Z7B_9652.jpg" :position="{ x: 50 }">
     Zwei Teams stehen sich am Start gegenüber: das Langsamere scheidet aus.
   </ImageSection>
@@ -171,6 +219,25 @@
     </div>
   </section>
 </template>
+
+<style scoped>
+blockquote {
+  position: relative;
+}
+
+blockquote,
+blockquote + p {
+  padding-left: 60px;
+}
+
+blockquote::before {
+  content: "\201D";
+  position: absolute;
+  left: 5px;
+  line-height: 100px;
+  font-size: 110px;
+}
+</style>
 
 <script setup>
 const { event, formattedDate, registration } = await useEvent();
