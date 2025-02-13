@@ -208,6 +208,11 @@
     </div>
   </section>
 
+  <ImageSection url="/images/066_Z7A_1290.jpg" :position="{ x: 60 }">
+    Mitmachen dürfen alle: egal ob THW bzw. Berufs-, Werks- oder Freiwillige
+    Feuerwehr!
+  </ImageSection>
+
   <section class="section" id="haftungsausschluss">
     <div class="container is-max-desktop">
       <h2 class="title mt-6">
