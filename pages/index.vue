@@ -243,12 +243,7 @@ blockquote::before {
 const { event, formattedDate, registration } = await useEvent();
 
 useSeoMeta({
-  description:
-    "Feuerwehr-Treppenlauf im K.O.-System (" +
-    formattedDate +
-    ") @ " +
-    event.location.name,
-  ogTitle: event.name + " (" + formattedDate + ")",
+  ogTitle: event.name,
   ogDescription: "Treppenlauf im K.O.-System @ " + event.location.name,
 });
 </script>
