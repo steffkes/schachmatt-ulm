@@ -28,7 +28,7 @@
         </div>
       </section>
 
-      <div class="mt-6">
+      <div class="notification is-link has-text-centered mt-6">
         <p>
           Du willst nächstes Jahr unbedingt mit dabei sein? Dann
           <a href="https://airtable.com/appZnWtcgYgbjEPBs/shrqwZ67Y0WiuJfxA">
@@ -43,16 +43,83 @@
     class="mt-6 fixed"
     style="
       min-height: 50vh;
-      background-image: url(/images/P10003192560.jpg);
+      background-image: url(/images/517_DSC02999.jpg);
       background-size: cover;
-      background-position: 75% 50%;
+      background-position: 65% 50%;
     "
   ></div>
 
   <section class="section pt-2">
     <div class="container is-max-desktop">
       <p class="has-text-grey-light">
-        Flo war eindeutig froh, als er zum letzten Mal oben angekommen ist ;)
+        Claudio war eindeutig froh, als er oben angekommen ist ;)
+      </p>
+
+      <div class="content mt-6">
+        <p>Impressionen von der Premiere 2025</p>
+
+        <div class="grid is-col-min-12">
+          <div class="cell">
+            <figure class="image">
+              <img src="/images/2025/716_DSC03246.jpg" />
+            </figure>
+          </div>
+          <div class="cell">
+            <figure class="image">
+              <img src="/images/2025/700_Z7A_1412.jpg" />
+            </figure>
+          </div>
+          <div class="cell">
+            <figure class="image">
+              <img src="/images/2025/611_DSC03134.jpg" />
+            </figure>
+          </div>
+
+          <div class="cell">
+            <figure class="image">
+              <img src="/images/2025/268_DSC02884.jpg" />
+            </figure>
+          </div>
+          <div class="cell">
+            <figure class="image">
+              <img src="/images/2025/636_DSC09661.jpg" />
+            </figure>
+          </div>
+          <div class="cell">
+            <figure class="image">
+              <img src="/images/2025/489_Z7A_1346.jpg" />
+            </figure>
+          </div>
+        </div>
+
+        <figure class="image is-16by9">
+          <iframe
+            class="has-ratio"
+            width="640"
+            height="360"
+            src="https://www.swr.de/~embed/swraktuell/baden-wuerttemberg/schachmatt-ulm-stairrun-mit-feuerwehrausruestung-100.html"
+            frameborder="0"
+            allowfullscreen
+          ></iframe>
+        </figure>
+      </div>
+    </div>
+  </section>
+
+  <div
+    class="mt-6 fixed"
+    style="
+      min-height: 50vh;
+      background-image: url(/images/339_Z7B_9652.jpg);
+      background-size: cover;
+      background-position: 50% 50%;
+    "
+  ></div>
+
+  <section class="section pt-2">
+    <div class="container is-max-desktop">
+      <p class="has-text-grey-light">
+        Zwei Teams stehen sich am Start gegenüber: das Langsamere scheidet aus.
       </p>
 
       <div class="content mt-6">
@@ -81,9 +148,9 @@
     class="mt-6 fixed"
     style="
       min-height: 50vh;
-      background-image: url(/images/P10003192586.jpg);
+      background-image: url(/images/170_Z7B_9489.jpg);
       background-size: cover;
-      background-position: 45% 50%;
+      background-position: 60% 50%;
     "
   ></div>
 
@@ -114,9 +181,9 @@
     class="mt-6 fixed"
     style="
       min-height: 50vh;
-      background-image: url(/images/P10003192613.jpg);
+      background-image: url(/images/022_Z7B_9362.jpg);
       background-size: cover;
-      background-position: 85% 50%;
+      background-position: 40% 50%;
     "
   ></div>
 
