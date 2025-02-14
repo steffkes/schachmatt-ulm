@@ -152,7 +152,7 @@
             <p>
               Also leider erzähl ich’s tatsächlich Jedem so! Dass wir gegen
               Steve quasi alles reingedonnert haben und uns dann nur noch von
-              Runde zu Runde mit den restlichen energiereserven langgehächelt
+              Runde zu Runde mit den restlichen Energiereserven langgehächelt
               haben .. ja
             </p>
           </blockquote>
