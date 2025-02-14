@@ -135,7 +135,12 @@
       <article class="message">
         <div class="message-body">
           <blockquote>
-            <p>Man muss eigentlich immer Vollgas geben.</p>
+            <p>
+              Man ist erst total motiviert und rennt richtig los und nimmt zwei
+              Treppenstufen auf einmal. Und dann, beim zweiten Stockwerk, kommt
+              die Wahrheit ans Licht und man merkt: Wir schaffen nur eine
+              Treppe.
+            </p>
           </blockquote>
           <p class="mt-2">
             — <strong>Anja</strong>
