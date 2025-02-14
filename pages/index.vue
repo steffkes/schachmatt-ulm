@@ -154,13 +154,11 @@
       <article class="message">
         <div class="message-body">
           <blockquote>
-            <p>Man muss eigentlich immer Vollgas geben.</p>
+            <p>Wenn es gar nicht mehr geht, gilt nur Zähne zusammenbeißen.</p>
           </blockquote>
           <p class="mt-2">
-            — <strong>Anja</strong>
-            <span class="ml-2 has-text-grey"
-              >(Feuerwehr Essingen, Abteilung Lauterburg)</span
-            >
+            — <strong>Hannes</strong>
+            <span class="ml-2 has-text-grey">(Feuerwehr Ulm)</span>
           </p>
         </div>
       </article>
