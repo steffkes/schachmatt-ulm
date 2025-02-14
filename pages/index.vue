@@ -51,22 +51,6 @@
         <div class="grid is-col-min-12">
           <div class="cell">
             <figure class="image">
-              <img src="/images/2025/716_DSC03246.jpg" />
-            </figure>
-          </div>
-          <div class="cell">
-            <figure class="image">
-              <img src="/images/2025/700_Z7A_1412.jpg" />
-            </figure>
-          </div>
-          <div class="cell">
-            <figure class="image">
-              <img src="/images/2025/611_DSC03134.jpg" />
-            </figure>
-          </div>
-
-          <div class="cell">
-            <figure class="image">
               <img src="/images/2025/268_DSC02884.jpg" />
             </figure>
           </div>
@@ -78,6 +62,22 @@
           <div class="cell">
             <figure class="image">
               <img src="/images/2025/489_Z7A_1346.jpg" />
+            </figure>
+          </div>
+
+          <div class="cell">
+            <figure class="image">
+              <img src="/images/2025/716_DSC03246.jpg" />
+            </figure>
+          </div>
+          <div class="cell">
+            <figure class="image">
+              <img src="/images/2025/700_Z7A_1412.jpg" />
+            </figure>
+          </div>
+          <div class="cell">
+            <figure class="image">
+              <img src="/images/2025/611_DSC03134.jpg" />
             </figure>
           </div>
 
