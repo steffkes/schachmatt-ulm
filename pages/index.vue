@@ -137,11 +137,30 @@
       <article class="message">
         <div class="message-body">
           <blockquote>
-            <p>Wenn es gar nicht mehr geht, gilt nur Zähne zusammenbeißen.</p>
+            <p>
+              Also leider erzähl ich’s tatsächlich Jedem so! Dass wir gegen
+              Steve quasi alles reingedonnert haben und uns dann nur noch von
+              Runde zu Runde mit den restlichen energiereserven langgehächelt
+              haben .. ja
+            </p>
           </blockquote>
           <p class="mt-2">
-            — <strong>Hannes</strong>
-            <span class="ml-2 has-text-grey">(Feuerwehr Ulm)</span>
+            — <strong>Claudio</strong>
+            <span class="ml-2 has-text-grey">(Bundeswehrfeuerwehr)</span>
+          </p>
+        </div>
+      </article>
+
+      <article class="message">
+        <div class="message-body">
+          <blockquote>
+            <p>Man muss eigentlich immer Vollgas geben.</p>
+          </blockquote>
+          <p class="mt-2">
+            — <strong>Anja</strong>
+            <span class="ml-2 has-text-grey"
+              >(Feuerwehr Essingen, Abteilung Lauterburg)</span
+            >
           </p>
         </div>
       </article>
