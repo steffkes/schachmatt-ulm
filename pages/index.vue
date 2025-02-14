@@ -166,6 +166,20 @@
       <article class="message">
         <div class="message-body">
           <blockquote>
+            <p>
+              War eine echt coole Geschichte mit einer neuen Unbekannten ;-)
+            </p>
+          </blockquote>
+          <p class="mt-2">
+            — <strong>Armin</strong>
+            <span class="ml-2 has-text-grey">(Feuerwehr Rednitzhembach)</span>
+          </p>
+        </div>
+      </article>
+
+      <article class="message">
+        <div class="message-body">
+          <blockquote>
             <p>Wenn es gar nicht mehr geht, gilt nur Zähne zusammenbeißen.</p>
           </blockquote>
           <p class="mt-2">
