@@ -113,7 +113,7 @@
   </section>
 
   <ImageSection url="/images/403_DSC09531.jpg" :position="{ x: 60 }">
-    Auch wenn es "nur" 18 Stockwerke sind …
+    Auch wenn es "nur" 18 Stockwerke sind … gilt Zähne zeigen
   </ImageSection>
 
   <section class="section">
