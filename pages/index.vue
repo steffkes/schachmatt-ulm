@@ -123,6 +123,18 @@
       <article class="message">
         <div class="message-body">
           <blockquote>
+            <p>Es tut schon weh, aber ist irgendwie geil.</p>
+          </blockquote>
+          <p class="mt-2">
+            — <strong>Lukas</strong>
+            <span class="ml-2 has-text-grey">(Feuerwehr Ulm)</span>
+          </p>
+        </div>
+      </article>
+
+      <article class="message">
+        <div class="message-body">
+          <blockquote>
             <p>Man muss eigentlich immer Vollgas geben.</p>
           </blockquote>
           <p class="mt-2">
@@ -158,18 +170,6 @@
           </blockquote>
           <p class="mt-2">
             — <strong>Hannes</strong>
-            <span class="ml-2 has-text-grey">(Feuerwehr Ulm)</span>
-          </p>
-        </div>
-      </article>
-
-      <article class="message">
-        <div class="message-body">
-          <blockquote>
-            <p>Es tut schon weh, aber ist irgendwie geil.</p>
-          </blockquote>
-          <p class="mt-2">
-            — <strong>Lukas</strong>
             <span class="ml-2 has-text-grey">(Feuerwehr Ulm)</span>
           </p>
         </div>
