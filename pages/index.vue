@@ -193,6 +193,22 @@
           </p>
         </div>
       </article>
+
+      <article class="message">
+        <div class="message-body">
+          <blockquote>
+            <p>
+              Leider sind wir schon in der zweiten Runde hauchdünn
+              ausgeschieden, dennoch freuen wir uns auf eine Wiederholung im
+              kommenden Jahr. Vielen Dank für das wirklich tolle Event!
+            </p>
+          </blockquote>
+          <p class="mt-2">
+            — <strong>Andy</strong>
+            <span class="ml-2 has-text-grey">(Feuerwehr Schwäbisch Hall)</span>
+          </p>
+        </div>
+      </article>
     </div>
   </section>
 
