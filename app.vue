@@ -83,34 +83,63 @@
     <div class="container is-max-desktop">
       <div class="columns">
         <div class="column">
-          <div class="content">
-            <p>
-              <strong>Schachmatt Ulm</strong> wird organisiert von Stefan
-              Matheis, dem Initiator des Schanzenlauf Oberstdorf.
-            </p>
-            <p>
-              Copyright/Urheberrecht aller Bilder:
-              <a href="https://www.kappelmeier-fotografie.de"
-                >Kappelmeier Fotografie</a
-              >
-            </p>
-          </div>
-        </div>
-        <div class="column">
-          <div class="columns">
+          <div class="columns is-mobile">
             <div class="column is-4">
               <img src="/images/stefan.jpg" alt="Bild Stefan Matheis" />
             </div>
-
             <div class="column">
               <p>Fragen? Anregungen? Presse. Sponsoring.</p>
-
               <p class="mt-4">
                 <strong>Stefan Matheis</strong><br />
                 <a href="mailto:stefan.matheis@schachmatt-ulm.de"
                   >✉️ stefan.matheis@schachmatt-ulm.de</a
                 ><br />
                 <a href="tel:004916097048114">📞 +49 160 970 48 114</a>
+              </p>
+
+              <p class="mt-5 is-size-6 has-text-grey-light">
+                Copyright/Urheberrecht aller Bilder:
+                <a
+                  href="https://www.kappelmeier-fotografie.de"
+                  class="has-text-grey-light"
+                  >Kappelmeier Fotografie</a
+                >
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="column competitions">
+          <div class="columns is-mobile">
+            <div class="column">
+              <img src="/images/schachmatt-ulm.svg" alt="Logo Schachmatt Ulm" />
+              <p class="has-text-centered">
+                <span>Schachmatt</span>
+                <span>Ulm</span>
+                <span class="has-text-grey-light">(Organisator)</span>
+              </p>
+            </div>
+            <div class="column">
+              <a href="//www.fire-trail-nesselwang.de">
+                <img
+                  src="/images/fire-trail-nesselwang.svg"
+                  alt="Logo Fire Trail Nesselwang"
+                />
+                <p class="has-text-centered">
+                  <span>Fire Trail</span>
+                  <span>Nesselwang</span>
+                  <span class="has-text-grey-light">(Organisator)</span>
+                </p>
+              </a>
+            </div>
+            <div class="column">
+              <img
+                src="/images/schanzenlauf-oberstdorf.svg"
+                alt="Logo Schanzenlauf Oberstdorf"
+              />
+              <p class="has-text-centered">
+                <span>Schanzenlauf</span>
+                <span>Oberstdorf</span>
+                <span class="has-text-grey-light">(Initiator)</span>
               </p>
             </div>
           </div>
@@ -131,6 +160,15 @@
   .fixed {
     background-attachment: scroll;
   }
+}
+</style>
+
+<style scoped>
+.competitions span {
+  display: block;
+}
+.competitions img {
+  filter: grayscale(1);
 }
 </style>
 
