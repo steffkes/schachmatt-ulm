@@ -3,8 +3,8 @@ export const event = {
   "@type": "SportsEvent",
   name: "Schachmatt Ulm",
   description: "Feuerwehr-Treppenlauf im K.O.-System",
-  startDate: "2025-02-08",
-  endDate: "2025-02-08",
+  startDate: "2026-02-01",
+  endDate: "2026-02-01",
   eventStatus: "https://schema.org/EventScheduled",
   eventAttendanceMode: "https://schema.org/OfflineEventAttendanceMode",
   organizer: {
