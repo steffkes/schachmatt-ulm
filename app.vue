@@ -190,6 +190,7 @@
 <style scoped>
 .competitions span {
   display: block;
+  padding-top: 3px;
 }
 .competitions img {
   filter: grayscale(1);
