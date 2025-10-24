@@ -30,9 +30,11 @@
 
       <div class="notification is-link has-text-centered mt-6">
         <p>
-          Du willst nächstes Jahr unbedingt mit dabei sein? Dann
+          Die zweite Ausgabe von Schachmatt Ulm gibt's am
+          <strong>Sonntag, den 01. Februar 2026</strong>!<br />
+          Du willst mit dabei sein? Dann
           <a href="https://airtable.com/appZnWtcgYgbjEPBs/shrqwZ67Y0WiuJfxA">
-            trag dich in die Interessenliste 2026 ein</a
+            trag dich in die Interessenliste ein</a
           >.
         </p>
       </div>
