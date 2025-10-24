@@ -134,13 +134,13 @@
             <div class="column">
               <a href="//www.schanzenlauf-oberstdorf.de">
                 <img
-                    src="/images/schanzenlauf-oberstdorf.svg"
-                    alt="Logo Schanzenlauf Oberstdorf"
+                  src="/images/schanzenlauf-oberstdorf.svg"
+                  alt="Logo Schanzenlauf Oberstdorf"
                 />
                 <p class="has-text-centered">
-                    <span>Schanzenlauf</span>
-                    <span>Oberstdorf</span>
-                    <span class="has-text-grey-light">(Initiator)</span>
+                  <span>Schanzenlauf</span>
+                  <span>Oberstdorf</span>
+                  <span class="has-text-grey-light">(Initiator)</span>
                 </p>
               </a>
             </div>
