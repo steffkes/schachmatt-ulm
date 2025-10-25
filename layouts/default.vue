@@ -225,7 +225,8 @@ useHead({
       children: JSON.stringify(event),
     },
     {
-      src: "https://plausible.io/js/script.js",
+      src: "/pl/script.js",
+      "data-api": "/pl/event",
       "data-domain": "schachmatt-ulm.de",
       defer: true,
     },
