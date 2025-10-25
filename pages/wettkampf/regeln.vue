@@ -328,7 +328,7 @@ mark {
 
 <script setup>
 useSeoMeta({
-  title: "Wettkampf",
+  title: "Regeln / Wettkampf",
   description: "Wettkampfregeln & Haftungsausschluß",
 });
 </script>
