@@ -65,6 +65,9 @@
 
             <div class="navbar-dropdown">
               <a href="/wettkampf/regeln" class="navbar-item"> Regeln </a>
+              <a href="/wettkampf/impressionen" class="navbar-item">
+                Impressionen
+              </a>
             </div>
           </div>
         </div>
