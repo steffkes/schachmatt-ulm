@@ -156,7 +156,7 @@
                 <p class="has-text-centered">
                   <span>Münsterturmlauf</span>
                   <span>Ulm</span>
-                  <span class="tag mt-2 is-info">Fr, 12.06.26</span>
+                  <span class="tag mt-2 is-success">Fr, 22.05.26</span>
                 </p>
               </a>
             </div>
