@@ -70,6 +70,16 @@
               </a>
             </div>
           </div>
+
+          <div class="navbar-item has-dropdown is-hoverable">
+            <a class="navbar-link"> Teilnehmer </a>
+
+            <div class="navbar-dropdown">
+              <a href="/teilnehmer/ausflugsziele" class="navbar-item">
+                Ausflugsziele
+              </a>
+            </div>
+          </div>
         </div>
       </div>
     </nav>
