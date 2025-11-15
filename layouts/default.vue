@@ -76,6 +76,9 @@
             <a class="navbar-link"> Teilnehmer </a>
 
             <div class="navbar-dropdown">
+              <a href="/teilnehmer/unterkunft" class="navbar-item">
+                Unterkunft
+              </a>
               <a href="/teilnehmer/ausflugsziele" class="navbar-item">
                 Ausflugsziele
               </a>
