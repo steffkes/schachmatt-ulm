@@ -1,6 +1,13 @@
 <template>
   <section class="section">
     <div class="container is-max-desktop">
+      <div class="notification is-link has-text-centered mb-6">
+        <p>
+          Die zweite Ausgabe von Schachmatt Ulm gibt's am
+          <strong>Sonntag, den 01. Februar 2026</strong>!
+        </p>
+      </div>
+
       <section class="level">
         <div class="level-item has-text-centered">
           <div>
@@ -27,17 +34,6 @@
           </div>
         </div>
       </section>
-
-      <div class="notification is-link has-text-centered mt-6">
-        <p>
-          Die zweite Ausgabe von Schachmatt Ulm gibt's am
-          <strong>Sonntag, den 01. Februar 2026</strong>!<br />
-          Du willst mit dabei sein? Dann
-          <a href="https://airtable.com/appZnWtcgYgbjEPBs/shrqwZ67Y0WiuJfxA">
-            trag dich in die Interessenliste ein</a
-          >.
-        </p>
-      </div>
     </div>
   </section>
 

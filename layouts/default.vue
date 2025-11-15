@@ -82,8 +82,20 @@
             </div>
           </div>
         </div>
+
+        <div class="navbar-end is-hidden-mobile">
+          <div class="navbar-item">
+            <div class="buttons">
+              <a href="/anmeldung" class="button is-primary">Anmeldung 2026</a>
+            </div>
+          </div>
+        </div>
       </div>
     </nav>
+
+    <p class="has-text-centered is-hidden-tablet mt-6">
+      <a href="/anmeldung" class="button is-primary">Anmeldung 2026</a>
+    </p>
   </div>
 
   <slot />
