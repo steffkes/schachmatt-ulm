@@ -76,6 +76,7 @@
             <a class="navbar-link"> Teilnehmer </a>
 
             <div class="navbar-dropdown">
+              <a href="/anmeldung" class="navbar-item"> Anmeldung </a>
               <a href="/teilnehmer/unterkunft" class="navbar-item">
                 Unterkunft
               </a>
