@@ -105,10 +105,12 @@
 
   <slot />
 
-  <PartnerGrid />
+  <footer class="footer pb-6">
+    <PartnerGrid />
+  </footer>
 
   <div
-    class="mt-6 fixed"
+    class="fixed"
     style="
       min-height: 75vh;
       background-image: url(/images/P10003192583.jpg);
