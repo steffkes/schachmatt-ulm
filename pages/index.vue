@@ -57,117 +57,47 @@
     <div class="container is-max-desktop">
       <p class="mb-3">Was unsere Teilnehmer über Schachmatt Ulm sagen:</p>
 
-      <article class="message">
-        <div class="message-body">
-          <blockquote>
-            <p>Es tut schon weh, aber ist irgendwie geil.</p>
-          </blockquote>
-          <p class="mt-2">
-            — <strong>Lukas</strong>
-            <span class="ml-2 has-text-grey">(Feuerwehr Ulm)</span>
-          </p>
-        </div>
-      </article>
+      <QuoteElement name="Lukas" department="Feuerwehr Ulm">
+        <p>Es tut schon weh, aber ist irgendwie geil.</p>
+      </QuoteElement>
 
-      <article class="message">
-        <div class="message-body">
-          <blockquote>
-            <p>
-              Man ist erst total motiviert und rennt richtig los und nimmt zwei
-              Treppenstufen auf einmal. Und dann, beim zweiten Stockwerk, kommt
-              die Wahrheit ans Licht und man merkt: Wir schaffen nur eine
-              Treppe.
-            </p>
-          </blockquote>
-          <p class="mt-2">
-            — <strong>Anja</strong>
-            <span class="ml-2 has-text-grey"
-              >(Feuerwehr Essingen, Abteilung Lauterburg)</span
-            >
-          </p>
-        </div>
-      </article>
+      <QuoteElement
+        name="Anja"
+        department="Feuerwehr Essingen, Abteilung Lauterburg"
+      >
+        <p>
+          Man ist erst total motiviert und rennt richtig los und nimmt zwei
+          Treppenstufen auf einmal. Und dann, beim zweiten Stockwerk, kommt die
+          Wahrheit ans Licht und man merkt: Wir schaffen nur eine Treppe.
+        </p>
+      </QuoteElement>
 
-      <article class="message">
-        <div class="message-body">
-          <blockquote>
-            <p>
-              Also leider erzähl ich’s tatsächlich Jedem so! Dass wir gegen
-              Steve quasi alles reingedonnert haben und uns dann nur noch von
-              Runde zu Runde mit den restlichen Energiereserven langgehächelt
-              haben .. ja
-            </p>
-          </blockquote>
-          <p class="mt-2">
-            — <strong>Claudio</strong>
-            <span class="ml-2 has-text-grey">(Bundeswehrfeuerwehr)</span>
-          </p>
-        </div>
-      </article>
+      <QuoteElement name="Claudio" department="Bundeswehrfeuerwehr">
+        <p>
+          Also leider erzähl ich’s tatsächlich Jedem so! Dass wir gegen Steve
+          quasi alles reingedonnert haben und uns dann nur noch von Runde zu
+          Runde mit den restlichen Energiereserven langgehächelt haben .. ja
+        </p>
+      </QuoteElement>
 
-      <article class="message">
-        <div class="message-body">
-          <blockquote>
-            <p>
-              War eine echt coole Geschichte mit einer neuen Unbekannten ;-)
-            </p>
-          </blockquote>
-          <p class="mt-2">
-            — <strong>Armin</strong>
-            <span class="ml-2 has-text-grey">(Feuerwehr Rednitzhembach)</span>
-          </p>
-        </div>
-      </article>
+      <QuoteElement name="Armin" department="Feuerwehr Rednitzhembach">
+        <p>War eine echt coole Geschichte mit einer neuen Unbekannten ;-)</p>
+      </QuoteElement>
 
-      <article class="message">
-        <div class="message-body">
-          <blockquote>
-            <p>Wenn es gar nicht mehr geht, gilt nur Zähne zusammenbeißen.</p>
-          </blockquote>
-          <p class="mt-2">
-            — <strong>Hannes</strong>
-            <span class="ml-2 has-text-grey">(Feuerwehr Ulm)</span>
-          </p>
-        </div>
-      </article>
+      <QuoteElement name="Hannes" department="Feuerwehr Ulm">
+        <p>Wenn es gar nicht mehr geht, gilt nur Zähne zusammenbeißen.</p>
+      </QuoteElement>
 
-      <article class="message">
-        <div class="message-body">
-          <blockquote>
-            <p>
-              Leider sind wir schon in der zweiten Runde hauchdünn
-              ausgeschieden, dennoch freuen wir uns auf eine Wiederholung im
-              kommenden Jahr. Vielen Dank für das wirklich tolle Event!
-            </p>
-          </blockquote>
-          <p class="mt-2">
-            — <strong>Andy</strong>
-            <span class="ml-2 has-text-grey">(Feuerwehr Schwäbisch Hall)</span>
-          </p>
-        </div>
-      </article>
+      <QuoteElement name="Andy" department="Feuerwehr Schwäbisch Hall">
+        <p>
+          Leider sind wir schon in der zweiten Runde hauchdünn ausgeschieden,
+          dennoch freuen wir uns auf eine Wiederholung im kommenden Jahr. Vielen
+          Dank für das wirklich tolle Event!
+        </p>
+      </QuoteElement>
     </div>
   </section>
 </template>
-
-<style scoped>
-blockquote {
-  position: relative;
-}
-
-blockquote,
-blockquote + p {
-  padding-left: 60px;
-}
-
-blockquote::before {
-  content: "\201D";
-  position: absolute;
-  left: 5px;
-  line-height: 100px;
-  font-size: 110px;
-}
-</style>
 
 <script setup>
 const { event, formattedDate, registration } = await useEvent();
