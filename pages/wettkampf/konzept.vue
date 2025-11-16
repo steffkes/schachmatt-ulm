@@ -23,21 +23,20 @@ useSeoMeta({
     <div class="container is-max-desktop">
       <div class="content">
         <p>
-          Alle 161 Teams starten ganz bequem in eine Qualifikationsrunde. Die
-          schnellsten 128 Teams laufen anschließend in der ersten Runde in 64
-          zufälligen Paarungen gegeneinander. Ein Team besteht aus zwei Läufern,
-          die den ganzen Wettkampf zusammen bestreiten. Sie laufen immer zu
-          zweit gegen ein anderes Team: entweder gewinnen sie gemeinsam (dann
-          kommen sie eine Runde weiter) oder sie verlieren gemeinsam (dann
-          scheiden sie aus dem Wettkampf aus).
+          Alle 161 Teams starten zunächst ganz entspannt in die
+          Qualifikationsrunde. Die schnellsten 128 ziehen weiter und treten
+          anschließend in 64 zufällig gelosten Paarungen gegeneinander an. Ein
+          Team besteht aus zwei Läuferinnen oder Läufern, die den gesamten
+          Wettkampf gemeinsam bestreiten – immer Seite an Seite, in guten wie
+          in… steilen Momenten.
         </p>
 
         <p>
-          Bei Schachmatt Ulm wird so lange gelaufen, bis sich am Ende nur noch
-          zwei Teams im Finale gegenüber stehen. Wer also in Mathe aufgepasst
-          hat, der wird schnell feststellen: Mindestens eine Runde, Höchstens
-          acht Runden. Also über 2'000 Stufen an einem Tag für die Teilnehmer im
-          Finale.
+          Bei Schachmatt Ulm wird Runde für Runde weitergelaufen, bis am Ende
+          nur noch zwei Teams im Finale stehen. Wer nachrechnet, landet bei
+          mindestens einer, maximal acht Runden – also weit über 2.000 Stufen
+          für alle, die es ins Finale schaffen. Eine kleine Erinnerung daran,
+          dass Ausdauer manchmal doch wichtiger ist als Optimismus.
         </p>
       </div>
     </div>
@@ -51,16 +50,18 @@ useSeoMeta({
     <div class="container is-max-desktop">
       <div class="content">
         <p>
-          Wir sagen euch im Ziel, welches Team der Paarung das Schnellere war.
-          Aber nicht mit welcher Zeit - wie schnell euer nächster Gegner vorher
-          gelaufen ist wisst ihr nicht. Die Zeiten erfahrt ihr erst am Ende des
-          gesamten Wettkampfes, nach der Siegerehrung.
+          Im Ziel erfahrt ihr direkt, welches Team schneller war – aber nicht
+          eure Zeit. Und auch nicht die eures nächsten Gegners. Die genauen
+          Zeiten verraten wir erst nach der Siegerehrung, damit jede Runde ihre
+          eigene Überraschung bereithält.
         </p>
+
         <p>
-          Der Wettkampf wird gelaufen in kompletter Ausrüstung (Helm, Jacke,
-          Hose, Handschuhe & Stiefeln) mit geschultertem Atemschutzgerät. Das
-          Atemschutzgerät nicht angeschlossen, daher keine Maske notwendig. Eine
-          Flasche reicht aus. Alle Teams in einer Kategorie.
+          Gelaufen wird in voller Einsatz-Ausrüstung: Helm, Jacke, Hose,
+          Handschuhe, Stiefel – plus Atemschutzgerät auf dem Rücken (nicht
+          angeschlossen, also ohne Maske). Eine Flasche genügt, und alle starten
+          in derselben Kategorie. Fair, übersichtlich – und niemand kann
+          behaupten, die anderen hätten bessere Ausreden.
         </p>
       </div>
     </div>
@@ -74,17 +75,20 @@ useSeoMeta({
     <div class="container is-max-desktop">
       <div class="content">
         <p>
-          Gestartet wird in der Restaurant-Ebene. Am Start stehen sich die zwei
-          Teams einer Paarung gegenüber, nachdem sie die Startlinie überquert
-          haben geht es in zwei separat verlaufende Treppenhäuser die jeweils
-          bis ins 16. Stockwerk führen.
+          Der Start befindet sich auf der Restaurant-Ebene. Dort stehen sich die
+          beiden Teams einer Paarung gegenüber, ein kurzer Blick, ein stiller
+          Moment der Motivation – und ab über die Startlinie. Von dort führt
+          jedes Team in sein eigenes Treppenhaus, beide identisch und beide
+          zuverlässig bis in den 16. Stock.
         </p>
 
         <p>
-          Dort oben im Panorama-Restaurant des Maritim Hotel Ulm befindet sich
-          das Ziel für beide Teams. Nach getaner Arbeit dürft ihr mit dem Aufzug
-          wieder hinunterfahren und euch auf die nächste Runde freuen - sofern
-          ihr schneller gewesen seid als das andere Team ;)
+          Oben im Panorama-Restaurant des Maritim Hotel Ulm wartet das Ziel –
+          und meistens auch ein tiefes Einatmen (mit Umgebungsluft, versteht
+          sich). Dann geht’s bequem mit dem Aufzug nach unten, wo ihr euch auf
+          die nächste Runde vorbereiten könnt – wenn ihr schneller wart. Falls
+          nicht, bleibt immerhin die Erkenntnis: Der Aufzug fährt auch für
+          ausgeschiedene Teams.
         </p>
       </div>
     </div>
