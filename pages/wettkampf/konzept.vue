@@ -9,6 +9,9 @@ useSeoMeta({
   <section class="section">
     <div class="container is-max-desktop">
       <h1 class="title">Wie Schachmatt Ulm funktioniert</h1>
+      <QuoteElement name="Lukas" department="Feuerwehr Ulm">
+        <p>Es tut schon weh, aber ist irgendwie geil.</p>
+      </QuoteElement>
     </div>
   </section>
 
