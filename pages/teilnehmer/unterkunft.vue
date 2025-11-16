@@ -38,8 +38,8 @@ useSeoMeta({
             >Über diesen Buchungslink</a
           >
           könnt ihr <strong>bis zum 16. Januar 2026</strong> einen vergünstigten
-          Aufenthalt im Maritim Hotel Ulm buchen. Der Preis gilt für eine oder
-          mehrere Nächte zwischen Freitag und Montag.
+          Aufenthalt im Maritim Hotel Ulm buchen. Das Angebot gilt für eine oder
+          mehrere Nächte zwischen Freitag und Montag. (Preis pro Nacht & Zimmer)
         </p>
 
         <table>
