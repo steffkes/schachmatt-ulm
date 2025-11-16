@@ -64,6 +64,7 @@
             <a class="navbar-link"> Wettkampf </a>
 
             <div class="navbar-dropdown">
+              <a href="/wettkampf/konzept" class="navbar-item"> Konzept </a>
               <a href="/wettkampf/zeitplan" class="navbar-item"> Zeitplan </a>
               <a href="/wettkampf/regeln" class="navbar-item"> Regeln </a>
               <a href="/wettkampf/impressionen" class="navbar-item">
