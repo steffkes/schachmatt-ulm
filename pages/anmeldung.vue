@@ -3,16 +3,18 @@
 <template>
   <section class="section">
     <div class="container is-max-desktop">
-      <div class="notification is-warning">
-        <p>Anmeldung ist noch nicht eröffnet</p>
-      </div>
       <p class="mb-4">
-        Alle Teilnehmer der ersten Ausgabe werden automatisch benachrichtigt
-        sobald es los geht.
-        <a href="https://airtable.com/appZnWtcgYgbjEPBs/shrqwZ67Y0WiuJfxA"
-          >Sag mir auch bescheid, wenn's so weit ist!</a
-        >
+        Teilnahme als Team kostet 70 €. Bitte
+        <NuxtLink href="/wettkampf/regeln"
+          >beachtet die Wettkampf-Regeln</NuxtLink
+        >.
       </p>
+
+      <iframe
+        src="https://events1.raceresult.com/registrations/?event=369334&n=Treppenlauf&k=lOvTMKQARkrW"
+        width="100%"
+        height="700"
+      ></iframe>
     </div>
   </section>
 </template>
