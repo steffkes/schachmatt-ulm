@@ -4,7 +4,7 @@
       <div class="columns is-multiline is-vcentered as-grid">
         <div class="column is-4 has-text-centered">
           <a href="https://www.denzel-fireequipment.de">
-            <img src="/partner/denzel.png" />
+            <img src="/partner/denzel.svg" />
           </a>
         </div>
         <div class="column is-4 has-text-centered">
