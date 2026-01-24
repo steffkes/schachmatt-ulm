@@ -154,6 +154,19 @@
         <div class="column competitions">
           <div class="columns is-mobile">
             <div class="column has-text-centered">
+              <a href="//munich-sunrise.gelungen.es">
+                <img
+                  src="/images/munich-sunrise.svg"
+                  alt="Logo Munich Sunrise"
+                />
+                <p class="has-text-centered">
+                  <span>Munich</span>
+                  <span>Sunrise</span>
+                  <span class="tag mt-2 is-info">Early Bird</span>
+                </p>
+              </a>
+            </div>
+            <div class="column has-text-centered">
               <a href="//www.schachmatt-ulm.de">
                 <img
                   src="/images/schachmatt-ulm.svg"
