@@ -184,15 +184,17 @@
         <div class="column competitions">
           <div class="columns is-mobile">
             <div class="column has-text-centered">
-              <img
-                src="/images/fire-trail-nesselwang.svg"
-                alt="Logo Fire Trail Nesselwang"
-              />
-              <p class="has-text-centered">
-                <span>Fire Trail</span>
-                <span>Nesselwang</span>
-                <span class="tag mt-2">Oktober '26</span>
-              </p>
+              <a href="//www.fire-trail-nesselwang.de">
+                <img
+                  src="/images/fire-trail-nesselwang.svg"
+                  alt="Logo Fire Trail Nesselwang"
+                />
+                <p class="has-text-centered">
+                  <span>Fire Trail</span>
+                  <span>Nesselwang</span>
+                  <span class="tag mt-2">Oktober '26</span>
+                </p>
+              </a>
             </div>
             <div class="column has-text-centered">
               <a href="//www.schanzenlauf-oberstdorf.de">
