@@ -13,14 +13,14 @@
           </a>
         </div>
         <div class="column is-4 has-text-centered">
+          <a href="https://www.maritim.de/de/hotels/deutschland/hotel-ulm">
+            <img src="/partner/maritim.svg" class="reduced"
+          /></a>
+        </div>
+        <div class="column is-4 has-text-centered">
           <a href="https://dietenbronner.de/">
             <img src="/partner/dietenbronner.svg" />
           </a>
-        </div>
-        <div class="column is-4 has-text-centered">
-          <a href="https://www.maritim.de/de/hotels/deutschland/hotel-ulm">
-            <img src="/partner/maritim.svg"
-          /></a>
         </div>
         <div class="column is-4 has-text-centered">
           <a href="https://www.fruchthof.de">
