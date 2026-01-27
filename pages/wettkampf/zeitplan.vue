@@ -45,7 +45,7 @@ useSeoMeta({
 
         <ul>
           <li>
-            <span class="tag is-light">09:30-10:30</span> Ausgabe der
+            <span class="tag is-light">09:00-10:30</span> Ausgabe der
             Startunterlagen (im Eingangsbereich des Congress Centrum Ulm)
           </li>
           <li>
