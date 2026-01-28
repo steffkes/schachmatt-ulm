@@ -75,7 +75,7 @@ useSeoMeta({
           </li>
           <li>
             <span class="tag is-light">14:30</span> Start Runde 6: 2 Teams
-            (Finale, klein & grob). Eine Paarung alle zwei Minute.
+            (Finale, klein & groß). Eine Paarung alle zwei Minute.
           </li>
           <li><span class="tag is-light">14:45</span> Siegerehrung</li>
         </ul>
