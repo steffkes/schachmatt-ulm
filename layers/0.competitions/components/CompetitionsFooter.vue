@@ -33,7 +33,7 @@
             <div class="column has-text-centered">
               <a href="//munich-sunrise.gelungen.es">
                 <img
-                  src="/images/munich-sunrise.svg"
+                  src="../assets/competitions/munich-sunrise.svg"
                   alt="Logo Munich Sunrise"
                 />
                 <p class="has-text-centered">
@@ -46,7 +46,7 @@
             <div class="column has-text-centered">
               <a href="//www.schachmatt-ulm.de">
                 <img
-                  src="/images/schachmatt-ulm.svg"
+                  src="../assets/competitions/schachmatt-ulm.svg"
                   alt="Logo Schachmatt Ulm"
                 />
                 <p class="has-text-centered">
@@ -59,7 +59,7 @@
             <div class="column has-text-centered">
               <a href="//muensterturmlauf-ulm.gelungen.es">
                 <img
-                  src="/images/muensterturmlauf-ulm.svg"
+                  src="../assets/competitions/muensterturmlauf-ulm.svg"
                   alt="Logo Münsterturmlauf Ulm"
                 />
                 <p class="has-text-centered">
@@ -76,7 +76,7 @@
             <div class="column has-text-centered">
               <a href="//www.fire-trail-nesselwang.de">
                 <img
-                  src="/images/fire-trail-nesselwang.svg"
+                  src="../assets/competitions/fire-trail-nesselwang.svg"
                   alt="Logo Fire Trail Nesselwang"
                 />
                 <p class="has-text-centered">
@@ -89,7 +89,7 @@
             <div class="column has-text-centered">
               <a href="//www.schanzenlauf-oberstdorf.de">
                 <img
-                  src="/images/schanzenlauf-oberstdorf.svg"
+                  src="../assets/competitions/schanzenlauf-oberstdorf.svg"
                   alt="Logo Schanzenlauf Oberstdorf"
                 />
                 <p class="has-text-centered">
