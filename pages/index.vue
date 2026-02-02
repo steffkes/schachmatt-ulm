@@ -1,13 +1,6 @@
 <template>
   <section class="section">
     <div class="container is-max-desktop">
-      <div class="notification is-link has-text-centered mb-6">
-        <p>
-          Die zweite Ausgabe von Schachmatt Ulm gibt's am
-          <strong>Sonntag, den 01. Februar 2026</strong>!
-        </p>
-      </div>
-
       <section class="level">
         <div class="level-item has-text-centered">
           <div>

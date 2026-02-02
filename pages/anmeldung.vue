@@ -3,18 +3,12 @@
 <template>
   <section class="section">
     <div class="container is-max-desktop">
-      <p class="mb-4">
-        Teilnahme als Team kostet 70 €. Bitte
-        <NuxtLink href="/wettkampf/regeln"
-          >beachtet die Wettkampf-Regeln</NuxtLink
-        >.
-      </p>
-
-      <iframe
-        src="https://events1.raceresult.com/registrations/?event=369334&n=Treppenlauf&k=lOvTMKQARkrW"
-        width="100%"
-        height="1000"
-      ></iframe>
+      <div class="notification is-info has-text-centered mb-6">
+        <p>
+          Vielen Dank für eine wahnsinnige zweite Runde. Die Anmeldung ist
+          momentan geschlossen - die nächste Runde findet im Februar 2027 statt.
+        </p>
+      </div>
     </div>
   </section>
 </template>
