@@ -107,7 +107,7 @@
     "
   ></div>
 
-  <CompetitionsFooter mail="stefan.matheis@schachmatt-ulm.de">
+  <CompetitionsFooter :event="event">
     Copyright/Urheberrecht aller Bilder:
     <a href="https://www.kappelmeier-fotografie.de" class="has-text-grey-light"
       >Kappelmeier Fotografie</a
