@@ -117,7 +117,7 @@
 
   <CompetitionsFooter :event="event">
     Copyright/Urheberrecht aller Bilder:
-    <a href="https://www.kappelmeier-fotografie.de" class="has-text-grey-light"
+    <a href="https://www.kappelmeier-fotografie.de" style="color: inherit"
       >Kappelmeier Fotografie</a
     >
   </CompetitionsFooter>
