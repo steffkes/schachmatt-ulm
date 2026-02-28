@@ -93,6 +93,14 @@
 
   <slot />
 
+  <section class="section py-0">
+    <div class="container is-max-desktop">
+      <p class="has-text-right">
+        <a href="/impressum" class="has-text-grey-light">Impressum</a>
+      </p>
+    </div>
+  </section>
+
   <footer class="footer pb-6">
     <PartnerGrid />
   </footer>
