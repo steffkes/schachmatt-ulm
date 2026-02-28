@@ -59,7 +59,7 @@
       class="has-ratio"
       width="640"
       height="360"
-      src="https://www.swr.de/~embed/swraktuell/baden-wuerttemberg/schachmatt-ulm-stairrun-mit-feuerwehrausruestung-100.html"
+      src="https://streamable.com/e/khpm6t?autoplay=0&loop=0"
       frameborder="0"
       allowfullscreen
     ></iframe>
